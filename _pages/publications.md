@@ -8,11 +8,6 @@ author_profile: true
 <!-- the styles -->
 <style>
 
-.biblist { }
-
-/* The item */
-.biblist li { }
-
 div.noshow { display: none; }
 div.bibtex {
   margin-right: 0%;
@@ -70,7 +65,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 <p>
 <b>Time domain force localization and reconstruction based on hierarchical Bayesian method</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
-<i>Journal of Sound and Vibration</i>,2020
+<i>Journal of Sound and Vibration</i>,2020<br>
 </p>
 
 
@@ -80,7 +75,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <p>
 <b>A revised time domain force identification method based on Bayesian formulation</b><br>
 <b>Qiaofeng Li</b>, Qiuhai Lu*<br>
-<i>International Journal for Numerical Methods in Engineering</i>,2019
+<i>International Journal for Numerical Methods in Engineering</i>,2019<br>
 </p>
 
 
@@ -94,8 +89,8 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <li>
 <p> 
 <b>Modal parameter extraction based on Hilbert transform and complex independent component analysis with reference</b><br>
-Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b>
-<i>Mechanical Systems and Signal Processing</i>
+Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
+<i>Mechanical Systems and Signal Processing</i>,2013<br>
 
 </p>
 
