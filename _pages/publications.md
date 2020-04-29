@@ -7,6 +7,12 @@ author_profile: true
 
 <!-- the styles -->
 <style>
+
+.biblist { }
+
+/* The item */
+.biblist li { }
+
 div.noshow { display: none; }
 div.bibtex {
   margin-right: 0%;
@@ -35,7 +41,7 @@ function toggleBibtex(articleid) {
 ## Journal Publications
 
 ### First & Corresponding author
-<ol>
+<ol class="biblist">
 <li>
 <p> 
 <b>Force localization and reconstruction using a novel Sparse Kalman filter</b><br>
@@ -59,7 +65,6 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 
 
 </li>
-
 
 <li>
 <p>
