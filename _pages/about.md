@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: 
-excerpt: "About You"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,4 +15,6 @@ I currently work as a postdoctoral associate.
 
 News and Updates
 ------
+<span style="color:red"> 2020.04.25.</span> Our
+
 <span style="color:red"> 2020.04.02.</span> Our team BlueLink has been selected as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize, sponsored by DOE and NOAA! Check this out [Ocean Observing Prize winners](https://www.herox.com/oceanobserving/community).
