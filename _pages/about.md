@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: 
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
-------
 I currently work as a postdoctoral associate.
 
 
