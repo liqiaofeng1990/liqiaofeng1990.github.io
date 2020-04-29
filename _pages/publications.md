@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Journal Publications
+
+### First & Corresponding author
 <ol>
 <li>
 <p> 
@@ -21,6 +23,16 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 </li>
 
 </ol>
+
+### Co-author
+<ol>
+<li>
+<p> 
+<b>Modal parameter extraction based on Hilbert transform and complex independent component analysis with reference</b><br>
+Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b>
+</p>
+
+</li>
 
 ## Conference Publications
 1. asjfd
