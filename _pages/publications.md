@@ -5,10 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journal Publications
-1. Force localization and reconstruction using a novel Sparse Kalman filter.
-2. fasdf
+## Journal Publications
+<ol>
+<li>
+<p> 
+<b>Force localization and reconstruction using a novel Sparse Kalman filter</b><br>
+Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
+</p>
 
-### Conference Publications
+
+</li>
+
+
+<li>fasdf
+</li>
+
+</ol>
+
+## Conference Publications
 1. asjfd
 2. asfd
