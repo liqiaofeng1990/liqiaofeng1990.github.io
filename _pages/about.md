@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,17 +9,9 @@ redirect_from:
 ---
 
 About me
-=======
-1
+------
+I currently work as a postdoctoral associate 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Create content & metadata
 ------
@@ -33,4 +25,4 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 News and Updates
 ------
-<span style="color:red"> 2020.04.02. Our team BlueLink has been selected as one of 11 winners from the DISCOVER competition in Ocean Observing Prize, sponsored by DOE and NOAA! Check this out [Ocean Observing Prize winners](https://www.herox.com/oceanobserving/community).</span>
+<span style="color:red"> 2020.04.02.</span> Our team BlueLink has been selected as one of 11 winners from the DISCOVER competition in Ocean Observing Prize, sponsored by DOE and NOAA! Check this out [Ocean Observing Prize winners](https://www.herox.com/oceanobserving/community).
