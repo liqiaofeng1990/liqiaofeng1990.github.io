@@ -5,19 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Journal Publications
+1. Force localization and reconstruction using a novel Sparse Kalman filter.
+2. fasdf
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
-## 1
-1. first 
-2. second publicaion
-
-
+### Conference Publications
+1. asjfd
+2. asfd
