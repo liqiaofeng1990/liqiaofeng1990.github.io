@@ -96,7 +96,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <a href="https://doi.org/10.1002/nme.6019" class="textlink" target="_blank">[journal page]</a>
 </p>
 
-<div id="bib_Feng2020Time" class="bibtex noshow">
+<div id="bib_Li2019Revised" class="bibtex noshow">
 <pre>
 @article{Li2019Revised,
    author = {Li, Qiaofeng and Lu, Qiuhai},
@@ -118,8 +118,24 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <b>Time domain force identification based on adaptive $\ell_q$ regularization</b><br>
 <b>Qiaofeng Li</b>, Qiuhai Lu*<br>
 <i>Journal of Vibration and Control</i>, 2018<br>
+<a href="javascript:toggleBibtex('Li2018Time')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1177/1077546318761968" class="textlink" target="_blank">[journal page]</a>
 </p>
 
+<div id="bib_Li2018Time" class="bibtex noshow">
+<pre>
+@article{Li2018Time,
+   author = {Li, Qiaofeng and Lu, Qiuhai},
+   title = {Time domain force identification based on adaptive $\ell_q$ regularization},
+   journal = {Journal of Vibration and Control},
+   volume = {24},
+   number = {23},
+   pages = {5610-5626},
+   DOI = {10.1177/1077546318761968},
+   year = {2018},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 
@@ -127,9 +143,25 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <p>
 <b>Force localization and reconstruction using a two-step iterative approach</b><br>
 <b>Qiaofeng Li</b>, Qiuhai Lu*<br>
-<i>Journal of Vibration and Control</i>, 2018<br>
+<i>Journal of Vibration and Control</i>, 2017<br>
+<a href="javascript:toggleBibtex('Li2017Force')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1177/1077546317713366" class="textlink" target="_blank">[journal page]</a>
 </p>
 
+<div id="bib_Li2017Force" class="bibtex noshow">
+<pre>
+@article{Li2017Force,
+   author = {Li, Qiaofeng and Lu, Qiuhai},
+   title = {Force localization and reconstruction using a two-step iterative approach},
+   journal = {Journal of Vibration and Control},
+   volume = {24},
+   number = {17},
+   pages = {3830-3841},
+   DOI = {10.1177/1077546317713366},
+   year = {2017},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 
@@ -138,9 +170,24 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <b>A hierarchical Bayesian method for vibration-based time domain force reconstruction problems</b><br>
 <b>Qiaofeng Li</b>, Qiuhai Lu*<br>
 <i>Journal of Sound and Vibration</i>, 2018<br>
+<a href="javascript:toggleBibtex('Li2016Impact')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.jsv.2015.12.010" class="textlink" target="_blank">[journal page]</a>
 </p>
 
-
+<div id="bib_Li2016Impact" class="bibtex noshow">
+<pre>
+@article{Li2016Impact,
+   author = {Li, Qiaofeng and Lu, Qiuhai},
+   title = {Impact localization and identification under a constrained optimization scheme},
+   journal = {Journal of Sound and Vibration},
+   volume = {366},
+   pages = {133-148},
+   ISSN = {0022460X},
+   DOI = {10.1016/j.jsv.2015.12.010},
+   year = {2016},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 
