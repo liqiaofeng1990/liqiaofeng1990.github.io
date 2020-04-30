@@ -96,14 +96,44 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 
 <li>
 <p>
-<b>Time domain force identification based on adaptive $ell_q$ regularization</b><br>
+<b>Time domain force identification based on adaptive $\ell_q$ regularization</b><br>
 <b>Qiaofeng Li</b>, Qiuhai Lu*<br>
-<i>International Journal for Numerical Methods in Engineering</i>, 2019<br>
+<i>Journal of Vibration and Control</i>, 2018<br>
+</p>
+
+</li>
+
+
+<li>
+<p>
+<b>Force localization and reconstruction using a two-step iterative approach</b><br>
+<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
+<i>Journal of Vibration and Control</i>, 2018<br>
+</p>
+
+</li>
+
+
+<li>
+<p>
+<b>A hierarchical Bayesian method for vibration-based time domain force reconstruction problems</b><br>
+<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
+<i>Journal of Sound and Vibration</i>, 2018<br>
 </p>
 
 
 </li>
 
+
+<li>
+<p>
+<b>Impact localization and identification under a constrained optimization scheme</b><br>
+<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
+<i>Journal of Sound and Vibration</i>, 2016<br>
+</p>
+
+
+</li>
 
 </ol>
 
