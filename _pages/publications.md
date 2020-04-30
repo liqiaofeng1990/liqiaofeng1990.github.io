@@ -22,6 +22,13 @@ div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
 
 
 <!-- the scripts -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript"
+  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 <script>
 function toggleBibtex(articleid) {
   var bib = document.getElementById('bib_'+articleid);
@@ -34,14 +41,6 @@ function toggleBibtex(articleid) {
   }
 }
 </script>
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-<script type="text/javascript"
-  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 
 
 
@@ -128,7 +127,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <li>
 <p>
 <b>Impact localization and identification under a constrained optimization scheme</b><br>
-<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
+<b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 <i>Journal of Sound and Vibration</i>, 2016<br>
 </p>
 
