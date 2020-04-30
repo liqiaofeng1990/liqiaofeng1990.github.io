@@ -46,15 +46,15 @@ function toggleBibtex(articleid) {
 <b>Force localization and reconstruction using a novel Sparse Kalman filter</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 <i>Mechanical Systems and Signal Processing</i>, 2020<br>
-<a href="javascript:toggleBibtex('Feng2020Force')" class="textlink">[bibtex]</a>
-<a href="https://doi.org/10.1016/j.ymssp.2020.106890" class="textlink" target="_blank">[link]</a>
+<a href="javascript:toggleBibtex('Feng2020Force')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.ymssp.2020.106890" class="textlink" target="_blank">[journal page]</a>
 </p>
 
 <div id="bib_Feng2020Force" class="bibtex noshow">
 <pre>
 @article{Feng2020Force,
    author = {Feng, Wei and Li, Qiaofeng and Lu, Qiuhai},
-   title = {Force localization and reconstruction based on a novel sparse Kalman filter},
+   title = {Force localization and reconstruction based on a novel sparse {K}alman filter},
    journal = {Mechanical Systems and Signal Processing},
    DOI = {10.1016/j.ymssp.2020.106890},
    year = {2020},
@@ -68,15 +68,15 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 <b>Time domain force localization and reconstruction based on hierarchical Bayesian method</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <i>Journal of Sound and Vibration</i>, 2020<br>
-<a href="javascript:toggleBibtex('Feng2020Time')" class="textlink">[bibtex]</a>
-<a href="https://doi.org/10.1016/j.jsv.2020.115222" class="textlink" target="_blank">[link]</a>
+<a href="javascript:toggleBibtex('Feng2020Time')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.jsv.2020.115222" class="textlink" target="_blank">[journal page]</a>
 </p>
 
 <div id="bib_Feng2020Time" class="bibtex noshow">
 <pre>
 @article{Feng2020Time,
    author = {Feng, Wei and Li, Qiaofeng and Lu, Qiuhai and Wang, Bo and Li, Chen},
-   title = {Time domain force localization and reconstruction based on hierarchical Bayesian method},
+   title = {Time domain force localization and reconstruction based on hierarchical {B}ayesian method},
    journal = {Journal of Sound and Vibration},
    volume = {472},
    ISSN = {0022460X},
@@ -92,9 +92,27 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <b>A revised time domain force identification method based on Bayesian formulation</b><br>
 <b>Qiaofeng Li</b>, Qiuhai Lu*<br>
 <i>International Journal for Numerical Methods in Engineering</i>, 2019<br>
+<a href="javascript:toggleBibtex('Li2019Revised')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1002/nme.6019" class="textlink" target="_blank">[journal page]</a>
 </p>
 
-
+<div id="bib_Feng2020Time" class="bibtex noshow">
+<pre>
+@article{Li2019Revised,
+   author = {Li, Qiaofeng and Lu, Qiuhai},
+   title = {A revised time domain force identification method based on Bayesian formulation},
+   journal = {International Journal for Numerical Methods in Engineering},
+   volume = {118},
+   number = {7},
+   pages = {411-431},
+   ISSN = {0029-5981
+1097-0207},
+   DOI = {10.1002/nme.6019},
+   url = {<Go to ISI>://WOS:000463377800003},
+   year = {2019},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 
