@@ -22,16 +22,6 @@ div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
 
 
 <!-- the scripts -->
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {inlineMath: [['$', '$']]},
-        messageStyle: "none"
-    });
-</script>
-
 <script>
 function toggleBibtex(articleid) {
   var bib = document.getElementById('bib_'+articleid);
@@ -71,8 +61,6 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
    type = {Journal Article}
 }
 </pre></div>
-
-
 </li>
 
 <li>
@@ -80,9 +68,23 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 <b>Time domain force localization and reconstruction based on hierarchical Bayesian method</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <i>Journal of Sound and Vibration</i>, 2020<br>
+<a href="javascript:toggleBibtex('Feng2020Time')" class="textlink">[bibtex]</a>
+<a href="https://doi.org/10.1016/j.jsv.2020.115222" class="textlink" target="_blank">[link]</a>
 </p>
 
-
+<div id="bib_Feng2020Time" class="bibtex noshow">
+<pre>
+@article{Feng2020Time,
+   author = {Feng, Wei and Li, Qiaofeng and Lu, Qiuhai and Wang, Bo and Li, Chen},
+   title = {Time domain force localization and reconstruction based on hierarchical Bayesian method},
+   journal = {Journal of Sound and Vibration},
+   volume = {472},
+   ISSN = {0022460X},
+   DOI = {10.1016/j.jsv.2020.115222},
+   year = {2020},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 <li>
