@@ -105,10 +105,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
    volume = {118},
    number = {7},
    pages = {411-431},
-   ISSN = {0029-5981
-1097-0207},
    DOI = {10.1002/nme.6019},
-   url = {<Go to ISI>://WOS:000463377800003},
    year = {2019},
    type = {Journal Article}
 }
