@@ -40,7 +40,8 @@ function toggleBibtex(articleid) {
 ## Journal Publications
 
 ### First & Corresponding author
-<ol class="biblist">
+<ol>
+
 <li>
 <p> 
 <b>Force localization and reconstruction using a novel Sparse Kalman filter</b><br>
@@ -100,7 +101,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <pre>
 @article{Li2019Revised,
    author = {Li, Qiaofeng and Lu, Qiuhai},
-   title = {A revised time domain force identification method based on Bayesian formulation},
+   title = {A revised time domain force identification method based on {B}ayesian formulation},
    journal = {International Journal for Numerical Methods in Engineering},
    volume = {118},
    number = {7},
@@ -138,6 +139,30 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 </pre></div>
 </li>
 
+<li>
+<p>
+<b>A hierarchical Bayesian method for vibration-based time domain force reconstruction problems</b><br>
+<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
+<i>Journal of Sound and Vibration</i>, 2018<br>
+<a href="javascript:toggleBibtex('Li2018Hierarchical')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.jsv.2018.01.052" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Li2018Hierarchical" class="bibtex noshow">
+<pre>
+@article{Li2018Hierarchical,
+   author = {Li, Qiaofeng and Lu, Qiuhai},
+   title = {A hierarchical {B}ayesian method for vibration-based time domain force reconstruction problems},
+   journal = {Journal of Sound and Vibration},
+   volume = {421},
+   pages = {190-204},
+   ISSN = {0022460X},
+   DOI = {10.1016/j.jsv.2018.01.052},
+   year = {2018},
+   type = {Journal Article}
+}
+</pre></div>
+</li>
 
 <li>
 <p>
@@ -167,9 +192,9 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 
 <li>
 <p>
-<b>A hierarchical Bayesian method for vibration-based time domain force reconstruction problems</b><br>
-<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
-<i>Journal of Sound and Vibration</i>, 2018<br>
+<b>Impact localization and identification under a constrained optimization scheme</b><br>
+<b>Qiaofeng Li*</b>, Qiuhai Lu<br>
+<i>Journal of Sound and Vibration</i>, 2016<br>
 <a href="javascript:toggleBibtex('Li2016Impact')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.jsv.2015.12.010" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -190,30 +215,37 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 </pre></div>
 </li>
 
-
-<li>
-<p>
-<b>Impact localization and identification under a constrained optimization scheme</b><br>
-<b>Qiaofeng Li*</b>, Qiuhai Lu<br>
-<i>Journal of Sound and Vibration</i>, 2016<br>
-</p>
-
-
-</li>
-
 </ol>
 
 ### Co-author
 <ol>
+
 <li>
 <p> 
 <b>Modal parameter extraction based on Hilbert transform and complex independent component analysis with reference</b><br>
 Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 <i>Mechanical Systems and Signal Processing</i>,2013<br>
-
+<a href="javascript:toggleBibtex('Yang2013Modal')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.ymssp.2013.05.003" class="textlink" target="_blank">[journal page]</a>
 </p>
 
+<div id="bib_Yang2013Modal" class="bibtex noshow">
+<pre>
+@article{Yang2013Modal,
+   author = {Yang, Kai and Yu, Kaiping and Li, Qiaofeng},
+   title = {Modal parameter extraction based on {H}ilbert transform and complex independent component analysis with reference},
+   journal = {Mechanical Systems and Signal Processing},
+   volume = {40},
+   number = {1},
+   pages = {257-268},
+   ISSN = {08883270},
+   DOI = {10.1016/j.ymssp.2013.05.003},
+   year = {2013},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
+
 </ol>
 
 ## Conference Publications
