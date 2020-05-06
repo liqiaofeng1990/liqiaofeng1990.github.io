@@ -254,7 +254,7 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 <li>
 <p>
 <b>Inverse measurement of external and boundary forces on structures</b><br>
-Wei Feng, <b>Qiaofeng Li</b>, Wei Chi, Qiuhai Lu<br>
+Wei Feng, <b>Qiaofeng Li*</b>, Wei Chi, Qiuhai Lu<br>
 25th International Congress of Theoretical and Applied Mechanics (ICTAM2020+1), August, 2021, Milano, Italy<br>
 Oral
 </p>
@@ -264,10 +264,28 @@ Oral
 <li>
 <p>
 <b>A Hierarchical Bayesian Method for Time Domain Structure Damage Detection</b><br>
-Wei Feng, <b>Qiaofeng Li</b>, Qiuhai Lu<br>
+Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE 2019, August, 2019, Anaheim, CA, USA<br>
-Oral
+Oral, 
+<a href="javascript:toggleBibtex('Feng2019Hierarchical_C')" class="textlink">[bib]</a>
+<a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2019/59285/V008T10A052/1070270" class="textlink" target="_blank">[webpage]</a>
 </p>
+
+<div id="bib_Feng2019Hierarchical_C" class="bibtex noshow">
+<pre>
+@proceedings{10.1115/DETC2019-97026,
+    author = {Feng, Wei and Li, Qiaofeng and Lu, Qiuhai},
+    title = "{A {H}ierarchical {B}ayesian {M}ethod for {T}ime {D}omain {S}tructure {D}amage {D}etection}",
+    volume = {Volume 8: 31st Conference on Mechanical Vibration and Noise},
+    series = {International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+    year = {2019},
+    month = {08},
+    doi = {10.1115/DETC2019-97026},
+    url = {https://doi.org/10.1115/DETC2019-97026},
+    note = {V008T10A052},
+    eprint = {https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-pdf/IDETC-CIE2019/59285/V008T10A052/6454411/v008t10a052-detc2019-97026.pdf},
+}
+</pre></div>
 </li>
 
 
@@ -287,6 +305,15 @@ Oral, Presenter
 <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 25th International Congress on Sound and Vibration, July, 2018, Hiroshima, Japan<br>
 Oral, Presenter
+</p>
+</li>
+
+<li>
+<p>
+<b>Generalized grouping regularization for time domain force reconstruction problems</b><br>
+<b>Qiaofeng Li</b>, Qiuhai Lu*<br>
+2017 International Conference on Material Science and Engineering Application (ICMSEA 2017) and 2017 International Conference on Mechanics, Civil Engineering and Building Materials (MCEBM 2017), Nanjing, China, 2017<br>
+Poster, Presenter
 </p>
 </li>
 
