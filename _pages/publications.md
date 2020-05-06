@@ -253,9 +253,41 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 
 <li>
 <p>
-<b>A Hierarchical Bayesian Method for Time Domain Structure Damage Detection</b><br>
-Wei Feng, <b>Qiaofeng Li</b>, Qiuhai Lu<br>
+<b>Inverse measurement of external and boundary forces on structures</b><br>
+Wei Feng, <b>Qiaofeng Li</b>, Wei Chi, Qiuhai Lu<br>
+25th International Congress of Theoretical and Applied Mechanics (ICTAM2020+1), August, 2021, Milano, Italy<br>
+Oral
+</p>
 </li>
 
+
+<li>
+<p>
+<b>A Hierarchical Bayesian Method for Time Domain Structure Damage Detection</b><br>
+Wei Feng, <b>Qiaofeng Li</b>, Qiuhai Lu<br>
+International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE 2019, August, 2019, Anaheim, CA, USA<br>
+Oral
+</p>
+</li>
+
+
+<li>
+<p>
+<b>A Bayesian approach for identification of forces containing trend components</b><br>
+<b>Qiaofeng Li*</b>, Qiuhai Lu<br>
+26th International Congress on Sound and Vibration, July, 2019, Montreal, Canada<br>
+Oral, Presenter
+</p>
+</li>
+
+
+<li>
+<p>
+<b>A recursive method for force localization and reconstruction</b><br>
+<b>Qiaofeng Li*</b>, Qiuhai Lu<br>
+25th International Congress on Sound and Vibration, July, 2018, Hiroshima, Japan<br>
+Oral, Presenter
+</p>
+</li>
 
 </ol>
