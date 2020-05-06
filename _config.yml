@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Qiaofeng Li, Ph.D."
-  avatar           : "profile.png"
+  avatar           : "Qiaofeng.jpg"
   bio              : "Postdoctoral Associate, Department of Mechanical Engineering, Virginia Tech"
   location         : "Blacksburg, VA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gt55pEAAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Qiaofeng_Li"
+  researchgate     : "https://www.researchgate.net/profile/Qiaofeng_Li"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

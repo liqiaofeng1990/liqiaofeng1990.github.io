@@ -224,7 +224,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <p> 
 <b>Modal parameter extraction based on Hilbert transform and complex independent component analysis with reference</b><br>
 Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
-<i>Mechanical Systems and Signal Processing</i>,2013<br>
+<i>Mechanical Systems and Signal Processing</i>, 2013<br>
 <a href="javascript:toggleBibtex('Yang2013Modal')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.ymssp.2013.05.003" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -249,5 +249,13 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 </ol>
 
 ## Conference Publications
-1. asjfd
-2. asfd
+<ol>
+
+<li>
+<p>
+<b>A Hierarchical Bayesian Method for Time Domain Structure Damage Detection</b><br>
+Wei Feng, <b>Qiaofeng Li</b>, Qiuhai Lu<br>
+</li>
+
+
+</ol>

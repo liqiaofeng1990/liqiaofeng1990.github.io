@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* Ph.D in Version Control Theory, Tsinghua University, 2018 (expected)
+* B.S. in Engineering Mechanics (with honor), Harbin Institute of Technology, 2013.
+* Ph.D. in Mechanics, Tsinghua University, 2018.
 
 Work experience
 ======
