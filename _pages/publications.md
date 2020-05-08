@@ -39,7 +39,7 @@ function toggleBibtex(articleid) {
 
 ## Journal Publications
 
-### First & Corresponding author
+### First & Corresponding Author
 <ol>
 
 <li>

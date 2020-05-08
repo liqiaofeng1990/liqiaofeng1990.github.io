@@ -1,13 +1,10 @@
 ---
 layout: single
-title: "Presentations"
+title: "Presentations and Talks"
 permalink: /presentations/
 author_profile: true
 ---
 
-## safsdf
+## Presentations
 1. asfd
 2. safssadfd
-
-## jslkjfj
-1. frirst

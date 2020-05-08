@@ -5,10 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
+## Teaching
 
-## jiuui
 
-
-## asfdsafd
-1. af
-2. sfd
+## Proposal Writing
