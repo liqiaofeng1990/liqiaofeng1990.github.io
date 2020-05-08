@@ -266,7 +266,7 @@ Oral
 <b>A Hierarchical Bayesian Method for Time Domain Structure Damage Detection</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference IDETC/CIE 2019, August, 2019, Anaheim, CA, USA<br>
-Oral, 
+Oral 
 <a href="javascript:toggleBibtex('Feng2019Hierarchical_C')" class="textlink">[bib]</a>
 <a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2019/59285/V008T10A052/1070270" class="textlink" target="_blank">[webpage]</a>
 </p>

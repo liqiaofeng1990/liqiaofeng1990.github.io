@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as a postdoctoral associate in the <a href="http://seb199.me.vt.edu/zuo/" target="_blank">Energy Harvesting and Mechatronics Research Laboratory</a> in Department of Mechanical Engineering of Virginia Tech, under the supervision of <a href="http://www.me.vt.edu/people/faculty/lei-zuo/" target="_blank">Prof. Lei Zuo</a>. Energy Harvesting and Mechatronics Research Laboratory is part of the Center for Energy Harvesting Materials and Systems (CEHMS), which is sponsored through the National Science Foundation Industry/University Cooperative Research Centers (I/UCRC) program as the sole center in US dedicated to energy harvesting technologies. Prof. Zuo is the director of this center.
+I currently work as a postdoctoral associate in the <a href="http://seb199.me.vt.edu/zuo/" target="_blank">Energy Harvesting and Mechatronics Research Laboratory</a> in the Department of Mechanical Engineering of Virginia Tech, under the supervision of <a href="http://www.me.vt.edu/people/faculty/lei-zuo/" target="_blank">Prof. Lei Zuo</a>. Energy Harvesting and Mechatronics Research Laboratory is part of the Center for Energy Harvesting Materials and Systems (CEHMS), which is sponsored through the National Science Foundation Industry/University Cooperative Research Centers (I/UCRC) program as the sole center in US dedicated to energy harvesting technologies. Prof. Zuo is the director of this center.
 
-My current research at the center involves design and development of large-scale ocean and wind energy conversion technologies. Our recent focuses are (1) creative design of new mechanism for ocean and wind energy technologies; (2) hydrodynamic and aeroelastic optimization of different devices; (3) design, control and prototyping of advanced power take-off systems.
+My current research at the center involves design and development of large-scale ocean and wind energy conversion technologies. Our recent focuses are (1) creative design of new mechanism for ocean and wind energy technologies; (2) hydrodynamic and aeroelastic optimization of different devices; (3) design, control, and prototyping of advanced power take-off systems.
 
 News and Updates
 ------
