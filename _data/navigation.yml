@@ -7,17 +7,22 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Presentations"
+    url: /presentations/    
 
   - title: "Research"
     url: /researches/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+  
   - title: "Blogs"
     url: /year-archive/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Contact"
+    url: /contact/
+        
+  
