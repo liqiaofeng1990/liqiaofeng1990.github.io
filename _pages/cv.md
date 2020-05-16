@@ -11,20 +11,26 @@ author_profile: true
 * Ph.D. in Mechanics, Tsinghua University, 2018.
 
 ## Work experience
-* 2013-2018: Research Assistant <br> Project 2
+* Postdoctoral Associate, Virginia Tech, 2019-present
 
-Project: 1
+* Research Assistant, Tsinghua University, 2013-2018
+<br>Project:
+<br>evaluation of the aseismic performance of a nuclear-grade fan
 
-* 2011-2013: Research Assistant
-
-Project: modal analysis of time-varying structures and its applications to identification of thermal modes
+* Research Assistant, Harbin Institute of Technology, 2011-2013
+<br>Project: 
+<br>&emsp;modal analysis of time-varying structures and its applications to identification of thermal modes
   
 ## Skills
 * Languages: Mandarin, English
 
-## Awards
+## Awards and honors
+* Fellowships and honors
+  * IHI Fellowship, Tsinghua University, 2017
 
 ## Teaching
+* Theoretical mechanics, 2014-2016
+<br> give theory lectures and demonstrate experiments
   
 ## Service and leadership
 * ASME member
