@@ -27,6 +27,10 @@ author_profile: true
 ## Awards and honors
 * Fellowships and honors
   * IHI Fellowship, Tsinghua University, 2017
+  * Qingfeng Liying Fellowship (Only 20 awardees at THU), Tsinghua University, 2016
+  * Outstanding Graduates (Top 2.5% at HIT), Harbin Institute of Technology, 2013
+  * National Endeavor Fellowship (Top 5% at HIT), Harbin Institute of Technology, 2011
+  * First Class Renmin Fellowship (Top 10% at HIT), Harbin Institute of Technology, 2010
 
 ## Teaching
 * Theoretical mechanics, 2014-2016
