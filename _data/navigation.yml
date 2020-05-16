@@ -12,15 +12,15 @@ main:
 
   - title: "Researches"
     url: /researches/
-
-  - title: "Miscellaneous"
-    url: /miscellaneous/    
   
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Blogs"
     url: /year-archive/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Miscellaneous"
+    url: /miscellaneous/    
 
   - title: "Contact"
     url: /contact/
