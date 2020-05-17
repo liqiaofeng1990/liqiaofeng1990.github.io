@@ -14,6 +14,7 @@ author_profile: true
   <br>Projects:
   1. efficient and reliable power take-off for ocean wave energy harvesting
   2. floating oscillating surge wave energy converter using controllabe efficient power take-off system
+  3. stabilizing offshore floating wind platform using dual-functional wave energy converter
 
 * Research Assistant, Tsinghua University, 2013-2018
   <br>Projects:
@@ -30,7 +31,11 @@ author_profile: true
 
 ## Awards and Honors
 * Awards
+  * Winner (Only 11 awardees in US), American-Made Challenges: Ocean Observing Prize, DISCOVER Stage, 2020
+  * Winner (Only 20 awardees in US), American-Made Challenges: Waves to Water Prize, CONCEPT Stage, 2019
+  * Winner, EPA P3 (to be nished), 2019
   * Best Technology Award (Only 1 awardee), 2012 ABU Robocon, Harbin, CN, 2012
+  * Meritorious Winner (Top 10% in the world), Mathematical Contest in Modeling, 2011
 
 
 * Fellowships and honors
@@ -44,6 +49,11 @@ author_profile: true
 * Theoretical mechanics, 2014-2016
 <br> give theory lectures and demonstrate experiments
   
-## Service and Leadership
-* ASME member
-* IEEE member
+## Service and Membership
+* Reviewer
+  * Served as a reviewer for *Journal of Sound and Vibration*
+  * Served on behalf of PI as a reviewer for *IEEE Transactions on Sustainable Energy*, *Ocean Engineering*, *Applied Ocean Research*, *Journal of Ocean Engineering and Marine Energy*
+
+* Membership
+  * ASME member
+  * IEEE member
