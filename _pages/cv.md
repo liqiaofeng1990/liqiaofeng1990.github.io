@@ -6,8 +6,8 @@ author_profile: true
 ---
 (unfinished)
 ## Education
-* B.S. in Engineering Mechanics (with honor), Harbin Institute of Technology, 2013.
 * Ph.D. in Mechanics, Tsinghua University, 2018.
+* B.S. in Engineering Mechanics (with honor), Harbin Institute of Technology, 2013.
 
 ## Work Experience
 * Postdoctoral Associate, Virginia Tech, 2019-present
