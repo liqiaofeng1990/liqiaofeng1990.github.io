@@ -39,7 +39,7 @@ div.desc {
 (under construction)
 ## Teaching
 * Theoretical Mechanicas, Tsinghua University, 2014-2016 <br>
-For each of the three years, I give three lectures a week in the autumn semester, and discuss curriculum modifications with the rest of lecturers in the spring semester. During autumn semester, for each lecture I will teach theories to about 20 students, and guide them through the experiments (for validation). Each lecture (including experiment time) will take me around 2 hours.
+For each of the three years, I gave three lectures a week in the autumn semester, and discussed curriculum modifications with the rest of lecturers in the spring semester. During autumn semester, for each lecture I taught theories to about 20 students, and guided them through the experiments (for validation). Each lecture (including experiment time) took me around 2 hours.
 
 ## Proposal Writing
 
@@ -101,5 +101,28 @@ I read and watch tennis games during my spare time. When I finish a really good 
             </a>
             <div class="desc">At Todaiji Temple, Nara. The deers are cute!</div>
         </div>
+    </div>
+</div>
+
+<div style="clear:both">
+    <h3>2018</h3>
+    <div class="gallery">
+    <a target="_blank" href="/images/Footprints/Copenhagen2018.jpg">
+        <img src="/images/Footprints/Copenhagen2018.jpg" alt="Copenhagen2018" width="800" height="800">
+    </a>
+    <div class="desc">Downtown Copenhagen. First time going abroad.</div>
+    </div>
+    <div class="gallery">
+    <a target="_blank" href="/images/Footprints/Hiroshima2018.jpg">
+        <img src="/images/Footprints/Hiroshima2018.jpg" alt="Hiroshima2018" width="800" height="800">
+    </a>
+    <div class="desc">At Hiroshima attending a congress.</div>
+    </div>
+    <br>
+    <div class="gallery" style="width:95%">
+    <a target="_blank" href="/images/Footprints/Tokyo2018.jpg">
+        <img src="/images/Footprints/Tokyo2018.jpg" alt="Tokyo2018" width="800" height="800">
+    </a>
+    <div class="desc">At Tokyo Ginza.</div>
     </div>
 </div>
