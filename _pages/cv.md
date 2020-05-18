@@ -33,7 +33,7 @@ author_profile: true
 * Awards
   * Winner (Only 11 awardees in US), American-Made Challenges: Ocean Observing Prize, DISCOVER Stage, 2020
   * Winner (Only 20 awardees in US), American-Made Challenges: Waves to Water Prize, CONCEPT Stage, 2019
-  * Winner, EPA P3 (to be nished), 2019
+  * Winner, EPA P3 (to be finished), 2019
   * Best Technology Award (Only 1 awardee), 2012 ABU Robocon, Harbin, CN, 2012
   * Meritorious Winner (Top 10% in the world), Mathematical Contest in Modeling, 2011
 
