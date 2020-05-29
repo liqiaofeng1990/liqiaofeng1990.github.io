@@ -13,8 +13,14 @@ My current research at the center involves design and development of large-scale
 
 News and Updates
 ------
+<span style="color:red"> 2020. 05. 28.</span> Our team is selected into <b>the Design phase of Siemens Design Challenge</b>! We will design our technology to enpower decentralized water desalination for remote and least developed regions in the world. Grateful and excited!
+
+<span style="color:red"> 2020. 05. 28.</span> Our team BlueLink is interviewed by DOE as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize. Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>. The videos for the interview are coming soon!
+
 <span style="color:red"> 2020. 05. 21.</span> I have presented our ongoing project "<b>Stabilizing offshore floating wind platform using dual-functional wave energy converter</b>" and ongoing research "<b>Self-floating oscillating surge wave energy converter</b>" at the 2020 spring online Industrial Advisory Board Meeting of CEHMS. The presentation videos are coming soon!
 
 <span style="color:red"> 2020. 04. 25.</span> Our paper <a href="https://doi.org/10.1016/j.ymssp.2020.106890" target="_blank">Force localization and reconstruction based on a novel sparse Kalman filter</a> has been published on Mechanical Systems and Signal Processing.
 
 <span style="color:red"> 2020. 04. 02.</span> Our team BlueLink has been selected as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize, sponsored by DOE and NOAA! Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>.
+
+<a href="/news/" style="color:#cc33ff">For the full list</a>.
