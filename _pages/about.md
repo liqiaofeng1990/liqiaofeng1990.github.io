@@ -13,6 +13,12 @@ My current research at the center involves design and development of large-scale
 
 News and Updates
 ------
+<span style="color:red"> 2020. 08. 11.</span> Our team Wave Drinker is covered in the Virginia Tech Daily newsletter! Check out <a href="https://vtnews.vt.edu/articles/2020/07/wavedrinker-phase3.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_081420-fs" target="_blank">Wave Drinker team wins a spot in Waves to Water Prize</a>.
+
+<span style="color:red"> 2020. 08. 11.</span> Our paper <a href="https://doi.org/10.1016/j.apenergy.2020.115459" target="_blank">A compact mechanical power take-off for wave energy converters: Design, analysis, and test verification</a> has been published on Applied Energy.
+
+<span style="color:red"> 2020. 07. 22.</span> Our team Wave Drinker is interviewed by DOE as one of 17 winners from the DOE Waves to Water Design competition. The interview video will come out soon!
+
 <span style="color:red"> 2020. 06. 08.</span> Our team Wave Drinker is selected as one of 17 winners from the DOE Waves to Water Design competition. Check out <a href="https://www.herox.com/wavestowater/community" target="_blank">the winner list</a>. We will be awarded $47k to continue the momentum!
 
 <span style="color:red"> 2020. 05. 28.</span> Our team is selected into <b>the Design phase of Siemens Design Challenge</b>! We will design our technology to enpower decentralized water desalination for remote and least developed regions in the world. Grateful and excited!

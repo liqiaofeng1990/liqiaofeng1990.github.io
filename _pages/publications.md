@@ -221,6 +221,30 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <ol>
 
 <li>
+<p>
+<b>A compact mechanical power take-off for wave energy converters: Design, analysis, and test verification</b><br>
+Xiaofan Li, ChienAn Chen, <b>Qiaofeng Li</b>, Lin Xu, Changwei Liang, Khai Ngo, Robert G. Parker, Lei Zuo<br>
+<i>Applied Energy</i>, 2020<br>
+<a href="javascript:toggleBibtex('Li2020Compact')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.apenergy.2020.115459" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Li2020Compact" class="bibtex noshow">
+<pre>
+@article{Li2020Compact,
+   author = {Li, Xiaofan and Chen, ChienAn and Li, Qiaofeng and Xu, Lin and Liang, Changwei and Ngo, Khai and Parker, Robert G. and Zuo, Lei},
+   title = {A compact mechanical power take-off for wave energy converters: Design, analysis, and test verification},
+   journal = {Applied Energy},
+   volume = {278},
+   ISSN = {03062619},
+   DOI = {10.1016/j.apenergy.2020.115459},
+   year = {2020},
+   type = {Journal Article}
+}
+</pre></div>
+</li>
+
+<li>
 <p> 
 <b>Modal parameter extraction based on Hilbert transform and complex independent component analysis with reference</b><br>
 Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
@@ -246,6 +270,27 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 </pre></div>
 </li>
 
+</ol>
+
+### Under Review
+<ol>
+<li>
+<b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
+Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
+<i>Journal of Sound and Vibration</i>
+</li>
+
+<li>
+<b>Group relevance vector machine for sparse force localization and reconstruction</b><br>
+Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
+<i>Mechanical Systems and Signal Processing</i>
+</li>
+
+<li>
+<b>A tunable wave energy converter using variable inertia flywheel</b><br>
+<b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
+<i>IEEE Transactions on Sustainable Energy</i>
+</li>
 </ol>
 
 ## Conference Publications

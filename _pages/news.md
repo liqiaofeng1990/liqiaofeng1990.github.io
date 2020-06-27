@@ -79,6 +79,13 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='22-07-2020'>
+        <h1>Interviewd by DOE</h1>
+        <p>
+            Our team Wave Drinker is interviewed by DOE as one of 17 winners from the DOE Waves to Water Design competition. The interview video will come out soon!
+        </p>
+    </div>
+
     <div class="timeline-item" date-is='08-06-2020'>
         <h1>We are selected in DOE Waves to Water Prize again. This time in Design phase</h1>
         <p>
