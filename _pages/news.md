@@ -79,6 +79,13 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='08-06-2020'>
+        <h1>We are selected in DOE Waves to Water Prize again. This time in Design phase</h1>
+        <p>
+            Our team Wave Drinker is selected as one of 17 winners from the DOE Waves to Water Design competition. Check out <a href="https://www.herox.com/wavestowater/community" target="_blank">the winner list</a>. We will be awarded $47k to continue the momentum!
+        </p>
+    </div>
+
 	<div class="timeline-item" date-is='28-05-2020'>
 		<h1>Siemens Design Challenge phase 1 selected!</h1>
 		<p>
@@ -89,7 +96,7 @@ p {
     <div class="timeline-item" date-is='28-05-2020'>
         <h1>Interviewd by DOE</h1>
         <p>
-            Our team BlueLink is interviewed by DOE as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize. Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>. The videos for the interview are coming soon!
+            Our team BlueLink is interviewed by DOE as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize. Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>. Check out <a href="https://vimeo.com/427132824/df9d8103b7" target="_blank">the interview video</a>!
         </p>
     </div>
 

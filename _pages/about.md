@@ -13,9 +13,11 @@ My current research at the center involves design and development of large-scale
 
 News and Updates
 ------
+<span style="color:red"> 2020. 06. 08.</span> Our team Wave Drinker is selected as one of 17 winners from the DOE Waves to Water Design competition. Check out <a href="https://www.herox.com/wavestowater/community" target="_blank">the winner list</a>. We will be awarded $47k to continue the momentum!
+
 <span style="color:red"> 2020. 05. 28.</span> Our team is selected into <b>the Design phase of Siemens Design Challenge</b>! We will design our technology to enpower decentralized water desalination for remote and least developed regions in the world. Grateful and excited!
 
-<span style="color:red"> 2020. 05. 28.</span> Our team BlueLink is interviewed by DOE as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize. Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>. The videos for the interview are coming soon!
+<span style="color:red"> 2020. 05. 28.</span> Our team BlueLink is interviewed by DOE as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize. Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>. Check out <a href="https://vimeo.com/427132824/df9d8103b7" target="_blank">the interview video</a>!
 
 <span style="color:red"> 2020. 05. 21.</span> I have presented our ongoing project "<b>Stabilizing offshore floating wind platform using dual-functional wave energy converter</b>" and ongoing research "<b>Self-floating oscillating surge wave energy converter</b>" at the 2020 spring online Industrial Advisory Board Meeting of CEHMS. The presentation videos are coming soon!
 
