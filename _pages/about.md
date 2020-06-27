@@ -13,6 +13,8 @@ My current research at the center involves design and development of large-scale
 
 News and Updates
 ------
+<span style="color:red"> 2020. 06. 08.</span> Our team Wave Drinker is selected as one of 17 winners from the DOE Waves to Water Design competition. Check out <a href="https://www.herox.com/wavestowater/community" target="_blank">the winner list</a>. We will be awarded $47k to continue the momentum!
+
 <span style="color:red"> 2020. 05. 28.</span> Our team is selected into <b>the Design phase of Siemens Design Challenge</b>! We will design our technology to enpower decentralized water desalination for remote and least developed regions in the world. Grateful and excited!
 
 <span style="color:red"> 2020. 05. 28.</span> Our team BlueLink is interviewed by DOE as one of 11 winners from the nationwide DISCOVER competition in Ocean Observing Prize. Check this <a href="https://www.herox.com/oceanobserving/community" target="_blank">winner list</a> and our <a href="https://youtu.be/uhtcPQ0r0gs" target="_blank">90s video pitch</a>. The videos for the interview are coming soon!

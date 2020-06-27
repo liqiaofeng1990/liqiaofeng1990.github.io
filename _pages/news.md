@@ -79,6 +79,13 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='08-06-2020'>
+        <h1>We are selected in DOE Waves to Water Prize again. This time in Design phase</h1>
+        <p>
+            Our team Wave Drinker is selected as one of 17 winners from the DOE Waves to Water Design competition. Check out <a href="https://www.herox.com/wavestowater/community" target="_blank">the winner list</a>. We will be awarded $47k to continue the momentum!
+        </p>
+    </div>
+
 	<div class="timeline-item" date-is='28-05-2020'>
 		<h1>Siemens Design Challenge phase 1 selected!</h1>
 		<p>
