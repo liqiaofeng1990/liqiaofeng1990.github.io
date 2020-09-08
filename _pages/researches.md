@@ -5,8 +5,11 @@ permalink: /researches/
 author_profile: true
 ---
 
-(under construction)
 ## Research Themes
+{% include base_path %}
 
+{% for post in site.researches %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Projects

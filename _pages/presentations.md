@@ -5,5 +5,4 @@ permalink: /presentations/
 author_profile: true
 ---
 
-(under construction)
 ## Presentations

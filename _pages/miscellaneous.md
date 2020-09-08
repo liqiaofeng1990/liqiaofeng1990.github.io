@@ -36,7 +36,6 @@ div.desc {
 </style>
 
 <!-- the contents -->
-(under construction)
 ## Teaching
 * Theoretical Mechanicas, Tsinghua University, 2014-2016 <br>
 For each of the three years, I gave three lectures a week in the autumn semester, and discussed curriculum modifications with the rest of lecturers in the spring semester. During autumn semester, for each lecture I taught theories to about 20 students, and guided them through the experiments (for validation). Each lecture (including experiment time) took me around 2 hours.
@@ -45,7 +44,7 @@ For each of the three years, I gave three lectures a week in the autumn semester
 1. Self-Reactive Wave Energy Converter with Advanced Mechanical Power Take-Off, $1.8M, the Department of Energy, US, main drafter, in the waiting list.
 2. Additive Manufacturing of Nanocrystalline-Enhanced Permanent Magnets and Soft Magnetic Cores, $2M, the Department of Energy, main drafter, encouraged for final paper but unfunded.
 3. Power Blue Economy using Ocean Energy Harvesting, $30K, 4-VA Advancing the Common Wealth, US, participator, funded.
-4. Stabilizing Off-shore Floating Wind Platform Using Dual-functional Wave Energy Converter, $80K, Industrial Advisory Board Meeting of the Center for Energy Harvesting Materials and Systems, US, main drafter, funded.
+4. Dual-functional Tuned Inerter Damper for Enhanced Semi-submersible Offshore Wind Turbine, $800K, New York State Energy Research & Development Authority, US, main drafter, funded.
 5. BlueLink: "Youtube Live" in the ocean, $10K, the Department of Energy and National and National Oceanic and Atmospheric Administration, US, main drafter, funded.
 6. Atlantic Marine Energy Center: Empower Marine Renewable Energy and the Blue Economy in the U.S. Eastern Coast and Nationwide, $5M, the Department of Energy, US, main drafter, under review.
 7. Water-soaked Contra-rotating Generator for Self-balanced Direct-drive Ocean Energy Conversion, $600K, the Department of Energy, main drafter, under review.

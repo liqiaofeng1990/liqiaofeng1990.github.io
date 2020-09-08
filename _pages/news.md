@@ -79,6 +79,20 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='11-08-2020'>
+      <h1>Covered by VT Daily</h1>
+      <p>
+          Our team Wave Drinker is covered in the Virginia Tech Daily newsletter! Check out <a href="https://vtnews.vt.edu/articles/2020/07/wavedrinker-phase3.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_081420-fs" target="_blank">Wave Drinker team wins a spot in Waves to Water Prize</a>.
+      </p>
+    </div>
+
+    <div class="timeline-item" date-is='11-08-2020'>
+      <h1>Our paper published on APEN</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1016/j.apenergy.2020.115459" target="_blank">A compact mechanical power take-off for wave energy converters: Design, analysis, and test verification</a> has been published on Applied Energy.
+      </p>
+    </div>
+
     <div class="timeline-item" date-is='22-07-2020'>
         <h1>Interviewd by DOE</h1>
         <p>
