@@ -51,8 +51,8 @@ author_profile: true
   
 ## Service and Membership
 * Reviewer
-  * Served as a reviewer for *Journal of Sound and Vibration*
-  * Served on behalf of PI as a reviewer for *IEEE Transactions on Sustainable Energy*, *Ocean Engineering*, *Applied Ocean Research*, *Journal of Ocean Engineering and Marine Energy*
+  * Served as a reviewer for *Journal of Sound and Vibration*, *Transactions of the Institute of Measurement and Control*
+  * Served on behalf of PI as a reviewer for *IEEE Transactions on Sustainable Energy*, *Ocean Engineering*, *Applied Ocean Research*, *Journal of Ocean Engineering and Marine Energy*, *Renewable & Sustainable Energy Reviews*, *Energy*
 
 * Membership
   * ASME member

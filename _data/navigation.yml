@@ -22,6 +22,9 @@ main:
   - title: "Miscellaneous"
     url: /miscellaneous/    
 
+  - title: "News"
+    url: /news/
+
   - title: "Contact"
     url: /contact/
         
