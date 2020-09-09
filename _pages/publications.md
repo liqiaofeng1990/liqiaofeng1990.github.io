@@ -225,6 +225,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <b>Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</b><br>
 Jia Mi, <b>Qiaofeng Li</b>, Mingyi Liu, Xiaofan Li, Lei Zuo*<br>
 <i>Applied Energy</i>, 2020<br>
+</p>
 </li>
 
 <li>
