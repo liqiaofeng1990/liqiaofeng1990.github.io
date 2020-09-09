@@ -1,10 +1,10 @@
 ---
-title: "Force identification"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/researchthemes_marineenergyconverter_overall.png'>"
+title: "Marine energy conversion"
+excerpt: "The ocean possesses enormous sustainable and renewable energy in the form of wave, current, salinity difference, and temperature difference. We exploit the largely untapped energy fountain, by designing multi-scale machinery to convert the largely untapped wave and hydrokinetic energy. We solve the challenges from 3 perspectives: hydrodynamics, power take-off, and control.<br/><img src='/images/researchthemes_marineenergyconverter_overall.png'>"
 collection: researches
 ---
 
-!(/images/researchthemes_marineenergyconverter_overall.png)
+![](/images/researchthemes_marineenergyconverter_overall.png)
 
 The US department of energy (DOE) has identified 3 thrust research areas to advance the technology and commericial maturation of the marine energy conversion industry:
 1. hydrodynamics
