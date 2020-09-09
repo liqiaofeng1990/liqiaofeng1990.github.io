@@ -222,8 +222,15 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 
 <li>
 <p>
+<b>Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</b><br>
+Jia Mi, <b>Qiaofeng Li</b>, Mingyi Liu, Xiaofan Li, Lei Zuo*<br>
+<i>Applied Energy</i>, 2020<br>
+</li>
+
+<li>
+<p>
 <b>A compact mechanical power take-off for wave energy converters: Design, analysis, and test verification</b><br>
-Xiaofan Li, ChienAn Chen, <b>Qiaofeng Li</b>, Lin Xu, Changwei Liang, Khai Ngo, Robert G. Parker, Lei Zuo<br>
+Xiaofan Li, ChienAn Chen, <b>Qiaofeng Li</b>, Lin Xu, Changwei Liang, Khai Ngo, Robert G. Parker, Lei Zuo*<br>
 <i>Applied Energy</i>, 2020<br>
 <a href="javascript:toggleBibtex('Li2020Compact')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.apenergy.2020.115459" class="textlink" target="_blank">[journal page]</a>

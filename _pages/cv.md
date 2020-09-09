@@ -31,6 +31,7 @@ author_profile: true
 
 ## Awards and Honors
 * Awards
+  * Winner (Only 17 awardees in US), American-Made Challenges: Waves to Water Prize, DESIGN Stage, 2020
   * Winner (Only 11 awardees in US), American-Made Challenges: Ocean Observing Prize, DISCOVER Stage, 2020
   * Winner (Only 20 awardees in US), American-Made Challenges: Waves to Water Prize, CONCEPT Stage, 2019
   * Winner, EPA P3 (to be finished), 2019
