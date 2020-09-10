@@ -216,7 +216,7 @@ defaults:
   # _researches
   - scope:
       path: ""
-      type: researches
+      type: research
     values:
       layout: single
       author_profile: true
