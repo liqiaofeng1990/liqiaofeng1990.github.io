@@ -50,6 +50,7 @@ For each of the three years, I gave three lectures a week in the autumn semester
 7. Water-soaked Contra-rotating Generator for Self-balanced Direct-drive Ocean Energy Conversion, $600K, the Department of Energy, main drafter, under review.
 8. Acquisition of a Dynamometer to Support Marine and Hydrokinetic (MHK) Energy Research, $xx, Office of Naval Research, main drafter, under review.
 9. A Self-reactive Marine Energy Converter to Power Ocean Aquaculture, $xx, The Small Business Technology Transfer, participator, funded.
+10. Passive-Adaptive Contra-Rotating Ultralight Floating (PACRUF) Crossflow Turbine, $3.4M, the Department of Energy, main drafter, under review.
 
 ## Hobbies
 I read and watch tennis games during my spare time. When I finish a really good novel, I can't wait to introduce it to everyone. Check out **The Three-Body Problem** by Cixin Liu, perhaps the best sci-fi ever created by a Chinese writer!

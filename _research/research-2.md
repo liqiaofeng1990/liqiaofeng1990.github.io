@@ -6,7 +6,9 @@ collection: research
 
 ![](/images/researchthemes_marineenergyconverter_overall.png)
 
-The US department of energy (DOE) has identified 3 thrust research areas to advance the technology and commericial maturation of the marine energy conversion industry:
+Marine and hydrokinetic (MHK) energy conversion technology harvests the abundant wave and current energy in the ocean. The US department of energy (DOE) has identified 3 thrust research areas to advance the technology and commericial maturation of the MHK industry:
 1. hydrodynamics
 2. power take-off (PTO)
 3. control
+
+Hydrodynamics refers to the optimization of the fluid-structure interaction of a device so that the ocean energy can be absorbed by the device as much as possible; PTO is the core mechanism of a MHK device, in charge of converting kinetic energy of the device into pressure energy for desalination or electricity for power generation; Control, by integrating sensors, actuators, hydrodynamic shape of the device, and unique PTO features, maximizes the power output in different working conditions and provide motion constraints in extreme conditions. 
