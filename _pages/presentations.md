@@ -7,6 +7,6 @@ author_profile: true
 
 ## Presentations
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=uhtcPQ0r0gs&t=2s">
-</iframe>
+**BlueLink: Youtube Live in the ocean (our winning concept in the competition)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uhtcPQ0r0gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
