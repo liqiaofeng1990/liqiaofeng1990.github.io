@@ -17,7 +17,7 @@ main:
     url: /portfolio/
 
   - title: "Blogs"
-    url: /year-archive/
+    url: /blogs/
 
   - title: "Miscellaneous"
     url: /miscellaneous/    
