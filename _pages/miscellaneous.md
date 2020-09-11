@@ -42,13 +42,13 @@ For each of the three years, I gave three lectures a week in the autumn semester
 
 ## Proposal Writing (unfinished)
 1. Self-Reactive Wave Energy Converter with Advanced Mechanical Power Take-Off, $1.8M, the Department of Energy, US, main drafter, in the waiting list.
-2. Additive Manufacturing of Nanocrystalline-Enhanced Permanent Magnets and Soft Magnetic Cores, $2M, the Department of Energy, main drafter, encouraged for final paper but unfunded.
+2. Additive Manufacturing of Nanocrystalline-Enhanced Permanent Magnets and Soft Magnetic Cores, $2M, the Department of Energy, main drafter, encouraged for full paper but unfunded.
 3. Power Blue Economy using Ocean Energy Harvesting, $30K, 4-VA Advancing the Common Wealth, US, participator, funded.
 4. Dual-functional Tuned Inerter Damper for Enhanced Semi-submersible Offshore Wind Turbine, $800K, New York State Energy Research & Development Authority, US, main drafter, funded.
 5. BlueLink: "Youtube Live" in the ocean, $10K, the Department of Energy and National and National Oceanic and Atmospheric Administration, US, main drafter, funded.
 6. Atlantic Marine Energy Center: Empower Marine Renewable Energy and the Blue Economy in the U.S. Eastern Coast and Nationwide, $5M, the Department of Energy, US, main drafter, under review.
 7. Water-soaked Contra-rotating Generator for Self-balanced Direct-drive Ocean Energy Conversion, $600K, the Department of Energy, main drafter, under review.
-8. Acquisition of a Dynamometer to Support Marine and Hydrokinetic (MHK) Energy Research, $xx, Office of Naval Research, main drafter, under review.
+8. Acquisition of a Dynamometer to Support Marine and Hydrokinetic (MHK) Energy Research, $340K, Office of Naval Research, main drafter, under review.
 9. A Self-reactive Marine Energy Converter to Power Ocean Aquaculture, $xx, The Small Business Technology Transfer, participator, funded.
 10. Passive-Adaptive Contra-Rotating Ultralight Floating (PACRUF) Crossflow Turbine, $3.4M, the Department of Energy, main drafter, under review.
 
