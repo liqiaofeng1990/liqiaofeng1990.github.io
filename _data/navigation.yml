@@ -13,11 +13,11 @@ main:
   - title: "Presentations"
     url: /presentations/    
   
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
 
-  - title: "Blogs"
-    url: /blogs/
+  #- title: "Blogs"
+  #  url: /blogs/
 
   - title: "Miscellaneous"
     url: /miscellaneous/    
@@ -27,5 +27,3 @@ main:
 
   - title: "Contact"
     url: /contact/
-        
-  
