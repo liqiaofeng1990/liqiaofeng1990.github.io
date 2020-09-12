@@ -12,19 +12,24 @@ author_profile: true
 ## Work Experience
 * Postdoctoral Associate, Virginia Tech, 2019-present
   <br>Projects:
-  1. efficient and reliable power take-off for ocean wave energy harvesting
-  2. floating oscillating surge wave energy converter using controllabe efficient power take-off system
-  3. stabilizing offshore floating wind platform using dual-functional wave energy converter
+  1. Efficient and reliable power take-off for ocean wave energy harvesting
+  2. Power blue economy using ocean energy harvesting
+  3. Floating oscillating surge wave energy converter using controllable efficient power take-off system
+  4. Powering ocean observation and underwater vehicles using wave energy harvesting
+  5. American-Made Challenges: Waves to Water Prize
+  6. American-Made Challenges: Ocean Observing Prize (Co-PI) 
+  7. Dual-functional tuned inerter damper for enhanced semi-submersible offshore wind turbine
 
 * Research Assistant, Tsinghua University, 2013-2018
   <br>Projects:
-  1. evaluation of the aseismic performance of a nuclear-grade fan
-  2. performance evaluation of a safety equipment under abnormal conditions
-  3. structural health monitoring methods based on acoustic emission technology
+  1. Structural health monitoring methods based on acoustic emission technology
+  2. Performance evaluation of a safety equipment under abnormal conditions
+  3. Evaluation of the aseismic performance of a nuclear-grade fan
+  4. Developing fast and adaptive force identification methods for force and structural health monitoring
 
 * Research Assistant, Harbin Institute of Technology, 2011-2013
   <br>Projects: 
-  1. modal analysis of time-varying structures and its applications to identification of thermal modes
+  1. Modal analysis of time-varying structures and its applications to identification of thermal modes
   
 ## Skills
 * Languages: Mandarin, English
