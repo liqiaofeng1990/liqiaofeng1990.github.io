@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "News and Updates"
+title: ""
 permalink: /news/
 author_profile: true
 ---
