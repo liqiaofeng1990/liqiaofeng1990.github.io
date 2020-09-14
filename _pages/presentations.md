@@ -19,3 +19,8 @@ author_profile: true
 
 **Stabilizing offshore wind platform using dual-functional wave energy converter**
 <iframe width="420" height="236" src="https://www.youtube.com/embed/ITkF6KThUOA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
+**Self-floating oscillating surge wave energy converter**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJWN0vqg1Go" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
