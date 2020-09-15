@@ -43,6 +43,12 @@ function toggleBibtex(articleid) {
 <ol>
 
 <li>
+<b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
+Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
+<i>Journal of Sound and Vibration</i>
+</li>
+
+<li>
 <p> 
 <b>Force localization and reconstruction using a novel Sparse Kalman filter</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu<br>
@@ -282,12 +288,6 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 
 ### Under Review
 <ol>
-<li>
-<b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
-Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
-<i>Journal of Sound and Vibration</i>
-</li>
-
 <li>
 <b>Group relevance vector machine for sparse force localization and reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
