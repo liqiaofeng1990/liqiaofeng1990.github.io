@@ -17,4 +17,4 @@ In these 3 components, hydrodynamics modelling is the most fundamental and essen
 
 ![](/images/researchthemes_marineenergyconverter_hydrodynamics.png)
 
-Linear potential flow theory is the most prevalent technique to model the hydrodynamics of wave energy converters. 
+Linear potential flow theory is the most prevalent technique to model the hydrodynamics of wave energy converters. Linear potential flow theory assumes no viscosity of the fluid and small vibration motion of wave energy converters. So the motion and generated energy is generally overestimated by this theory. Drag damping correction, typically using Morrison's equation, can be integrated for viscosity effect. However, the small vibration motion assumption is the fundamental limitation. So in the wave energy converter design flow, linear potential flow theory is generally adopted to provide preliminary power estimation. The final system validation should resort to high-fidelity modelling techniques, such as RANS and LES.
