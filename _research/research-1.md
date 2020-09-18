@@ -12,3 +12,5 @@ Three critical concepts exist in structural dynamics:
 3. Output responses.
 
 The forward problem is defined as calculating the output of a certain structure if information on input forces and structure properties is given. Identification of system parameters or model based on known input and output is called type-I inverse problem. Identification of input forces based on known system model and measured output is type-II inverse problem, the focus of this article and the theme of my Ph.D. reserach. 
+
+For linear elastic structures, the input-output mapping, i.e. the system model, is generally quite straight forward. In frequency domain, it can be represented by a frequency response function. In time domain, the mapping is characterized by a Duhamel's intergral. In this sense, time domain inverse force identification is mathematically equivalent to solving the type II Volterra integral equation. This problem is generally ill-conditioned or ill-posed. So a majority of our efforts have been directed to developing specilized regularization techniques for this problem.
