@@ -231,7 +231,23 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <b>Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</b><br>
 Jia Mi, <b>Qiaofeng Li</b>, Mingyi Liu, Xiaofan Li, Lei Zuo*<br>
 <i>Applied Energy</i>, 2020<br>
+<a href="javascript:toggleBibtex('Jia2020Design')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.apenergy.2020.115726" class="textlink" target="_blank">[journal page]</a>
 </p>
+
+<div id="bib_Jia2020Design" class="bibtex noshow">
+<pre>
+@article{Jia2020Design,
+   author = {Mi, Jia and Li, Qiaofeng and Liu, Mingyi and Li, Xiaofan and Zuo, Lei},
+   title = {Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification},
+   journal = {Applied Energy},
+   volume = {279},
+   ISSN = {03062619},
+   DOI = {10.1016/j.apenergy.2020.115726},
+   year = {2020},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 <li>

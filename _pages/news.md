@@ -79,6 +79,13 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='18-09-2020'>
+      <h1>Our paper published on APEN</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1016/j.apenergy.2020.115726" target="_blank">Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</a> has been published on Applied Energy.
+      </p>
+    </div>
+
     <div class="timeline-item" date-is='11-08-2020'>
       <h1>Covered by VT Daily</h1>
       <p>

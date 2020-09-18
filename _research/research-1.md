@@ -11,4 +11,4 @@ Three critical concepts exist in structural dynamics:
 2. Structure or system;
 3. Output responses.
 
-The forward problem is defined as calculating the output of a certain structure if information on input forces and structure properties is given. If the structure properties are known and output resposnes are measured, to calculate the unknown input forces is called inverse force identification problem.
+The forward problem is defined as calculating the output of a certain structure if information on input forces and structure properties is given. Identification of system parameters or model based on known input and output is called type-I inverse problem. Identification of input forces based on known system model and measured output is type-II inverse problem, the focus of this article and the theme of my Ph.D. reserach. 
