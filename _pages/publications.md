@@ -46,6 +46,7 @@ function toggleBibtex(articleid) {
 <b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <i>Journal of Sound and Vibration</i>
+<a href="https://doi.org/10.1016/j.jsv.2020.115713" class="textlink" target="_blank">[journal page]</a>
 </li>
 
 <li>
