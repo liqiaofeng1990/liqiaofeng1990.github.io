@@ -43,10 +43,26 @@ function toggleBibtex(articleid) {
 <ol>
 
 <li>
+<p>
 <b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <i>Journal of Sound and Vibration</i> <br>
+<a href="javascript:toggleBibtex('Feng2020Element')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.jsv.2020.115713" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Feng2020Element" class="bibtex noshow">
+<pre>
+@article{RN3009,
+   author = {Feng, Wei and Li, Qiaofeng and Lu, Qiuhai and Li, Chen and Wang, Bo},
+   title = {Element-wise Bayesian regularization for fast and adaptive force reconstruction},
+   journal = {Journal of Sound and Vibration},
+   ISSN = {0022460X},
+   DOI = {10.1016/j.jsv.2020.115713},
+   year = {2020},
+   type = {Journal Article}
+}
+</pre></div>
 </li>
 
 <li>
