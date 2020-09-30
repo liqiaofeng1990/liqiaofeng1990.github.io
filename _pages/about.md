@@ -13,6 +13,8 @@ My current research at the center involves design and development of large-scale
 
 News and Updates
 ------
+<span style="color:red"> 2020. 09.30.</span> Our submission <a href="https://www.rdworldonline.com/finalists-for-2020-rd-100-awards-are-unveiled/" target="_blank">Energy Harvesting Backpack for Military and Outdoor Applications</a> has been selected as one of the finalists in the 2020 R&D 100 Awards!
+
 <span style="color:red"> 2020. 09. 18.</span> Our paper <a href="https://doi.org/10.1016/j.apenergy.2020.115726" target="_blank">Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</a> has been published on Applied Energy.
 
 <span style="color:red"> 2020. 08. 11.</span> Our team Wave Drinker is covered in the Virginia Tech Daily newsletter! Check out <a href="https://vtnews.vt.edu/articles/2020/07/wavedrinker-phase3.html?utm_source=cmpgn_news&utm_medium=email&utm_campaign=vtUnirelNewsDailyCMP_081420-fs" target="_blank">Wave Drinker team wins a spot in Waves to Water Prize</a>.

@@ -79,6 +79,13 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='30-09-2020'>
+      <h1>Finalist in the 2020 R&D 100 Awards!</h1>
+      <p>
+          Our submission <a href="https://www.rdworldonline.com/finalists-for-2020-rd-100-awards-are-unveiled/" target="_blank">Energy Harvesting Backpack for Military and Outdoor Applications</a> has been selected as one of the finalists in the 2020 R&D 100 Awards!
+      </p>
+    </div>
+
     <div class="timeline-item" date-is='18-09-2020'>
       <h1>Our paper published on APEN</h1>
       <p>
