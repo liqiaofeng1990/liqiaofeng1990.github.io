@@ -322,6 +322,12 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 ### Under Review
 <ol>
 <li>
+<b>A self-floating oscillating surge wave energy converter</b><br>
+<b>Qiaofeng Li</b>, Jia Mi, Xiaofan Li, Shuo Chen, Boxi Jiang, Lei Zuo*<br>
+<i>Energy</i>
+</li>
+
+<li>
 <b>Group relevance vector machine for sparse force localization and reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <i>Mechanical Systems and Signal Processing</i>
