@@ -78,6 +78,13 @@ p {
 
 
 <div class="container">
+  
+    <div class="timeline-item" date-is='12-11-2020'>
+      <h1>CEMHS IAB meeting</h1>
+      <p> 
+        I have presented our ongoing project "<b>Powering ocean observation and underwater vehicles using wave energy harvesting</b>" at the 2020 fall online Industrial Advisory Board Meeting of CEHMS. The presentation videos are coming soon!
+      </p>
+    </div>
 
     <div class="timeline-item" date-is='30-09-2020'>
       <h1>Finalist in the 2020 R&D 100 Awards!</h1>
