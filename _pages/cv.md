@@ -36,6 +36,7 @@ author_profile: true
 
 ## Awards and Honors
 * Awards
+  * Finalist, the R&D 100 Awards, 2000
   * Winner (17 awardees), American-Made Challenges: Waves to Water Prize, DESIGN Stage, 2020
   * Winner (17 awardees), Innovate for Impact: Siemens Design Challenge, clean water track, Plan & Learn phase, 2020
   * Winner (11 awardees), American-Made Challenges: Ocean Observing Prize, DISCOVER Stage, 2020
@@ -58,7 +59,7 @@ author_profile: true
   
 ## Service and Membership
 * Reviewer
-  * Served as a reviewer for *Journal of Sound and Vibration*, *Transactions of the Institute of Measurement and Control*
+  * Served as a reviewer for *Information Fusion*, *Journal of Sound and Vibration*, *Transactions of the Institute of Measurement and Control*
   * Served on behalf of PI as a reviewer for *IEEE Transactions on Sustainable Energy*, *Ocean Engineering*, *Applied Ocean Research*, *Journal of Ocean Engineering and Marine Energy*, *Renewable & Sustainable Energy Reviews*, *Energy*, *Renewable Energy*
 
 * Membership

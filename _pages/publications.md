@@ -44,6 +44,14 @@ function toggleBibtex(articleid) {
 
 <li>
 <p>
+<b>A tunable wave energy converter using variable inertia flywheel (accepted)</b><br>
+<b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
+<i>IEEE Transactions on Sustainable Energy</i> <br>
+</p>
+</li>
+
+<li>
+<p>
 <b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <i>Journal of Sound and Vibration</i> <br>
@@ -331,12 +339,6 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 <b>Group relevance vector machine for sparse force localization and reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <i>Mechanical Systems and Signal Processing</i>
-</li>
-
-<li>
-<b>A tunable wave energy converter using variable inertia flywheel</b><br>
-<b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
-<i>IEEE Transactions on Sustainable Energy</i>
 </li>
 </ol>
 
