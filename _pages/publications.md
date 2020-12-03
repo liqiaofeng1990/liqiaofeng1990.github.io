@@ -44,9 +44,10 @@ function toggleBibtex(articleid) {
 
 <li>
 <p>
-<b>A tunable wave energy converter using variable inertia flywheel (accepted)</b><br>
+<b>A tunable wave energy converter using variable inertia flywheel</b><br>
 <b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
 <i>IEEE Transactions on Sustainable Energy</i> <br>
+<a href="https://doi.org/10.1109/TSTE.2020.3041664" class="textlink" target="_blank">[journal page]</a>
 </p>
 </li>
 
