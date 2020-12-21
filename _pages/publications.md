@@ -64,7 +64,7 @@ Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <pre>
 @article{Feng2020Element,
    author = {Feng, Wei and Li, Qiaofeng and Lu, Qiuhai and Li, Chen and Wang, Bo},
-   title = {Element-wise Bayesian regularization for fast and adaptive force reconstruction},
+   title = {Element-wise {B}ayesian regularization for fast and adaptive force reconstruction},
    journal = {Journal of Sound and Vibration},
    ISSN = {0022460X},
    DOI = {10.1016/j.jsv.2020.115713},

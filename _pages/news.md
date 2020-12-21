@@ -78,7 +78,14 @@ p {
 
 
 <div class="container">
-  
+    
+    <div class="timeline-item" date-is='01-12-2020'>
+      <h1>Our paper published on IEEE Transactions on Sustainable Energy</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1109/TSTE.2020.3041664" target="_blank">A tunable wave energy converter using variable inertia flywheel</a> has been published on IEEE Transactions on Sustainable Energy.
+      </p>
+    </div>
+
     <div class="timeline-item" date-is='12-11-2020'>
       <h1>CEMHS IAB meeting</h1>
       <p> 
@@ -97,6 +104,13 @@ p {
       <h1>Our paper published on APEN</h1>
       <p>
           Our paper <a href="https://doi.org/10.1016/j.apenergy.2020.115726" target="_blank">Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</a> has been published on Applied Energy.
+      </p>
+    </div>
+
+    <div class="timeline-item" date-is='15-09-2020'>
+      <h1>Our paper published on JSV</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1016/j.jsv.2020.115713" target="_blank">Element-wise Bayesian regularization for fast and adaptive force reconstruction</a> has been published on Journal of Sound and Vibration.
       </p>
     </div>
 
