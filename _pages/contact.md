@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-<br>Department of Mechanical Engineering, Virginia Tech
+<br> Mechanical & Aerospace Engineering, UCLA
 
-liqiaofeng1990@vt.edu
+liqiaofeng1990@g.ucla.edu

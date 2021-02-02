@@ -10,7 +10,9 @@ author_profile: true
 * B.S. in Engineering Mechanics (with honor), Harbin Institute of Technology, 2013.
 
 ## Work Experience
-* Postdoctoral Associate, Virginia Tech, 2019-present
+* Postdoctoral Scholar, University of California, Los Angeles, 2021-Present
+
+* Postdoctoral Associate, Virginia Tech, 2019-2021
   <br>Projects:
   1. Efficient and reliable power take-off for ocean wave energy harvesting
   2. Power blue economy using ocean energy harvesting
