@@ -13,6 +13,8 @@ My current research focus is on soft robotics and machine learning in structural
 
 News and Updates
 ------
+<span style="color:red"> 2021. 04. 30.</span> Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327021002958" target="_blank">Group Relevance Vector Machine for sparse force localization and reconstruction</a> has been published on Mechanical Systems and Signal Processing.
+
 <span style="color:red"> 2021. 02. 01.</span> I have started a new postdoctoral scholar position in UCLA.
 
 <span style="color:red"> 2020. 12. 01.</span> Our paper <a href="https://doi.org/10.1109/TSTE.2020.3041664" target="_blank">A tunable wave energy converter using variable inertia flywheel</a> has been published on IEEE Transactions on Sustainable Energy.
