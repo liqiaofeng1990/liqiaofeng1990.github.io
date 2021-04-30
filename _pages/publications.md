@@ -44,11 +44,51 @@ function toggleBibtex(articleid) {
 
 <li>
 <p>
+<b>Group Relevance Vector Machine for sparse force localization and reconstruction</b><br>
+Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
+<i>Mechanical Systems and Signal Processing</i> <br>
+<a href="javascript:toggleBibtex('Feng2021Group')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.ymssp.2021.107900" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Feng2021Group" class="bibtex noshow">
+<pre>
+@article{Feng2021Group,
+   title = {Group Relevance Vector Machine for sparse force localization and reconstruction},
+   journal = {Mechanical Systems and Signal Processing},
+   volume = {161},
+   pages = {107900},
+   year = {2021},
+   issn = {0888-3270},
+   doi = {https://doi.org/10.1016/j.ymssp.2021.107900},
+   author = {Wei Feng and Qiaofeng Li and Qiuhai Lu and Chen Li and Bo Wang}
+}
+</pre></div>
+</li>
+
+<li>
+<p>
 <b>A tunable wave energy converter using variable inertia flywheel</b><br>
 <b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
 <i>IEEE Transactions on Sustainable Energy</i> <br>
+<a href="javascript:toggleBibtex('Li2021Tunable')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1109/TSTE.2020.3041664" class="textlink" target="_blank">[journal page]</a>
 </p>
+
+<div id="bib_Li2021Tunable" class="bibtex noshow">
+<pre>
+@article{Li2021Tunable,
+   author={Li, Qiaofeng and Li, Xiaofan and Mi, Jia and Jiang, Boxi and Chen, Shuo and Zuo, Lei},
+   journal={IEEE Transactions on Sustainable Energy},
+   title={Tunable Wave Energy Converter Using Variable Inertia Flywheel},
+   year={2021},  
+   volume={12},  
+   number={2},  
+   pages={1265-1274},  
+   doi={10.1109/TSTE.2020.3041664}},
+   type={Journal Article}
+}
+</pre></div>
 </li>
 
 <li>
