@@ -79,6 +79,13 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='06-05-2020'>
+      <h1>Our paper published on Energy</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1016/j.energy.2021.120668" target="_blank">A self-floating oscillating surge wave energy converter</a> has been published on Energy.
+      </p>
+    </div>
+
     <div class="timeline-item" date-is='30-04-2020'>
       <h1>Our paper published on Mechanical Systems and Signal Processing</h1>
       <p>

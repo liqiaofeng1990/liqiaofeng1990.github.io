@@ -13,6 +13,8 @@ My current research focus is on soft robotics and machine learning in structural
 
 News and Updates
 ------
+<span style="color:red"> 2021. 05. 06.</span> Our paper <a href="https://doi.org/10.1016/j.energy.2021.120668" target="_blank">A self-floating oscillating surge wave energy converter</a> has been published on Energy.
+
 <span style="color:red"> 2021. 04. 30.</span> Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327021002958" target="_blank">Group Relevance Vector Machine for sparse force localization and reconstruction</a> has been published on Mechanical Systems and Signal Processing.
 
 <span style="color:red"> 2021. 02. 01.</span> I have started a new postdoctoral scholar position in UCLA.
