@@ -9,9 +9,9 @@ redirect_from:
 
 I currently work as a postdoctoral scholar in UCLA.
 
-My current research focus is on soft robotics and machine learning in structural mechanics.
+My current research focus is on soft robotics and artificial intelligence in physics.
 
-News and Updates
+<!-- News and Updates
 ------
 <span style="color:red"> 2021. 05. 06.</span> Our paper <a href="https://doi.org/10.1016/j.energy.2021.120668" target="_blank">A self-floating oscillating surge wave energy converter</a> has been published on Energy.
 
@@ -23,4 +23,4 @@ News and Updates
 
 <span style="color:red"> 2020. 11. 12.</span> I have presented our ongoing project "<b>Powering ocean observation and underwater vehicles using wave energy harvesting</b>" at the 2020 fall online Industrial Advisory Board Meeting of CEHMS. The presentation videos are coming soon!
 
-<a href="/news/" style="color:#cc33ff">For the full list</a>.
+<a href="/news/" style="color:#cc33ff">For the full list</a>. -->
