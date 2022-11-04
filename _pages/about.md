@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as a postdoctoral scholar in UCLA.
+I currently work as a postdoctoral associate at MIT.
 
 My current research focus is on soft robotics and artificial intelligence in physics.
 
