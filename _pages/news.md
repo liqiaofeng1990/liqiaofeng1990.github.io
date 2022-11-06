@@ -79,6 +79,20 @@ p {
 
 <div class="container">
 
+    <div class="timeline-item" date-is='06-05-2020'>
+      <h1>Our paper published on Energy</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1016/j.energy.2021.120668" target="_blank">A self-floating oscillating surge wave energy converter</a> has been published on Energy.
+      </p>
+    </div>
+
+    <div class="timeline-item" date-is='30-04-2020'>
+      <h1>Our paper published on Mechanical Systems and Signal Processing</h1>
+      <p>
+          Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327021002958" target="_blank">Group Relevance Vector Machine for sparse force localization and reconstruction</a> has been published on Mechanical Systems and Signal Processing.
+      </p>
+    </div>
+
     <div class="timeline-item" date-is='01-02-2021'>
       <h1>A new journey in UCLA</h1>
       <p>

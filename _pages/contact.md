@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-<br> Mechanical & Aerospace Engineering, UCLA
+<br> Mechanical Engineering, MIT
 
-liqiaofeng1990@g.ucla.edu
+lqf1990@mit.edu
