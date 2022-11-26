@@ -1,7 +1,14 @@
 ---
-title: "Soft robotics"
-excerpt: "Soft robotics are unconventional robotic systems that constituted by soft materials and that allows for maneuvering, sensing, and interacting with unconventional environmetns. (To be finished)"
+title: "Artificial intelligence for physics"
+# excerpt: "The ocean possesses enormous sustainable and renewable energy in the form of wave, current, salinity difference, and temperature difference. We exploit this energy fountain, by designing multi-scale machinery to convert the largely untapped wave and hydrokinetic energy. We solve the challenges from 3 perspectives: hydrodynamics, power take-off, and control.<br/><img src='/images/researchthemes_marineenergyconverter_overall.png'>"
 collection: research
 ---
 
 To be finished
+
+<!-- ![](/images/researchthemes_marineenergyconverter_overall.png)
+
+Marine and hydrokinetic (MHK) energy conversion technology harvests the abundant wave and current energy in the ocean. The US department of energy (DOE) has identified 3 thrust research areas to advance the technology and commericial maturation of the MHK industry:
+1. hydrodynamics
+2. power take-off (PTO)
+3. control -->

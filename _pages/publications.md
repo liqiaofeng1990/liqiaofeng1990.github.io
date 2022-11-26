@@ -46,7 +46,7 @@ function toggleBibtex(articleid) {
 <p>
 <b>Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network</b><br>
 <b>Qiaofeng Li</b>, Tianyi Wang, Vwani Roychowdhury, M.K. Jawed*<br>
-<i>Energy</i> <br>
+<i>Extreme Mechanics Letters</i> <br>
 <a href="javascript:toggleBibtex('Li2022Rapidly')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.eml.2022.101925" class="textlink" target="_blank">[journal page]</a>
 </p>

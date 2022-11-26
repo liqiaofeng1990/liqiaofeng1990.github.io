@@ -79,14 +79,28 @@ p {
 
 <div class="container">
 
-    <div class="timeline-item" date-is='06-05-2020'>
+	<div class="timeline-item" date-is='14-11-2022'>
+      <h1>Our paper published on Extreme Mechanics Letters</h1>
+      <p>
+          Our paper <a href="https://doi.org/10.1016/j.eml.2022.101925" target="_blank">Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network</a> has been published on Extreme Mechanics Letters.
+      </p>
+    </div>
+
+	<div class="timeline-item" date-is='01-05-2022'>
+      <h1>A new journey at MIT</h1>
+      <p>
+          I have started a new postdoctoral scholar position at MIT.
+      </p>
+    </div>
+
+    <div class="timeline-item" date-is='06-05-2021'>
       <h1>Our paper published on Energy</h1>
       <p>
           Our paper <a href="https://doi.org/10.1016/j.energy.2021.120668" target="_blank">A self-floating oscillating surge wave energy converter</a> has been published on Energy.
       </p>
     </div>
 
-    <div class="timeline-item" date-is='30-04-2020'>
+    <div class="timeline-item" date-is='30-04-2021'>
       <h1>Our paper published on Mechanical Systems and Signal Processing</h1>
       <p>
           Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327021002958" target="_blank">Group Relevance Vector Machine for sparse force localization and reconstruction</a> has been published on Mechanical Systems and Signal Processing.

@@ -57,8 +57,25 @@ I read and watch tennis games during my spare time. When I finish a really good 
 
 ## Footprints
 <div>
+    <h3>2022</h3>
+    <div class="line">
+        <div class="gallery" style="width:95%">
+            <a target="_blank" href="/images/Footprints/Boston2022_Yuesen.jpg">
+                <img src="/images/Footprints/Boston2022_Yuesen.jpg" alt="Boston2022_Yuesen" width="800" height="800">
+            </a>
+            <div class="desc">Farewell to Yusen</div>
+        </div>
+    </div>
+</div>
+
+<div>
     <h3>2020</h3>
-    <p>To be continued...</p>
+    <p>To be filled...</p>
+</div>
+
+<div>
+    <h3>2020</h3>
+    <p>To be filled...</p>
 </div>
 
 <div>
