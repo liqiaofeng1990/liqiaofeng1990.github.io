@@ -10,7 +10,9 @@ author_profile: true
 * B.S. in Engineering Mechanics (with honor), Harbin Institute of Technology, 2013.
 
 ## Work Experience
-* Postdoctoral Scholar, University of California, Los Angeles, 2021-Present
+* Postdoctoral Scholar, Massachusetts Institute of Technology, Cambridge, 2022-Present
+
+* Postdoctoral Scholar, University of California, Los Angeles, 2021-2022
 
 * Postdoctoral Associate, Virginia Tech, 2019-2021
   <br>Projects:

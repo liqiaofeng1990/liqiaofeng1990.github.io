@@ -7,10 +7,10 @@ author_profile: true
 
 ## Presentations
 
-**Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network**
+<!-- **Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network**
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mHCFa8U9Xpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br />
+<br /> -->
 
 **Wave Drinker (our winning concept in the competition)**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v5HQfuyQW8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
