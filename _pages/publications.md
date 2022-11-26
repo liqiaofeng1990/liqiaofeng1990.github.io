@@ -44,6 +44,28 @@ function toggleBibtex(articleid) {
 
 <li>
 <p>
+<b>Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network</b><br>
+<b>Qiaofeng Li</b>, Tianyi Wang, Vwani Roychowdhury, M.K. Jawed*<br>
+<i>Energy</i> <br>
+<a href="javascript:toggleBibtex('Li2022Rapidly')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1016/j.eml.2022.101925" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Li2022Rapidly" class="bibtex noshow">
+<pre>
+@article{Li2022Rapidly,
+	title = {Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network},
+	journal = {Extreme Mechanics Letters},
+	pages = {101925},
+	year = {2022},
+	doi = {https://doi.org/10.1016/j.eml.2022.101925},
+	author = {Qiaofeng Li and Tianyi Wang and Vwani Roychowdhury and M.K. Jawed}
+}
+</pre></div>
+</li>
+
+<li>
+<p>
 <b>A self-floating oscillating surge wave energy converter</b><br>
 <b>Qiaofeng Li</b>, Jia Mi, Xiaofan Li, Shuo Chen, Boxi Jiang, Lei Zuo*<br>
 <i>Energy</i> <br>
@@ -391,8 +413,25 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 
 </ol>
 
-### Under Review
+### Under Review & Preprints
 <ol>
+
+<li>
+<p> 
+<b>Sunlight-powered self-excited oscillators for sustainable autonomous soft robotics</b><br>
+Yusen Zhao, <b>Qiaofeng Li</b>, Zixiao Liu, Yousif Alsaid, Pengju Shi, Mohammad Khalid Jawed, Ximin He*<br>
+<i>Science Robotics</i><br>
+</p>
+</li>
+
+<li>
+<p> 
+<b>Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification</b><br>
+<b>Qiaofeng Li</b>, Huaibo Chen, Benjamin C. Koenig, Sili Deng*<br>
+<i>Physical chemistry chemical physics</i><br>
+</p>
+</li>
+
 </ol>
 
 ## Conference Publications
