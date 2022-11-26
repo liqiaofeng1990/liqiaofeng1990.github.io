@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as a postdoctoral associate at MIT. I am working on physics-informed deep learning and uncertainty quantification. We develop interpretable deep-learning-based techniques for solving physical problems. In our research, we emphasize the role of interpretability and generalizability, and hope by incorporating these features data-driven modeling techniques eventually achieve robust characterization and uncertainty quantification of dynamical systems.
+<p style="text-align:justify;">I currently work as a postdoctoral associate at MIT. I am working on physics-informed deep learning and uncertainty quantification. We develop interpretable deep-learning-based techniques for solving physical problems. In our research, we emphasize the role of interpretability and generalizability, and hope by incorporating these features data-driven modeling techniques eventually achieve robust characterization and uncertainty quantification of dynamical systems.</p>
 
 <!-- News and Updates
 ------
