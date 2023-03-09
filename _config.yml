@@ -234,15 +234,15 @@ defaults:
       share: true
       related: true
   # _presentations
-  - scope:
-      path: ""
-      type: presentations
-    values:
-      layout: single
-      author_profile: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: presentations
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _contact
   - scope:
       path: ""

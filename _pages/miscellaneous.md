@@ -40,7 +40,7 @@ div.desc {
 * Theoretical Mechanicas, Tsinghua University, 2014-2016 <br>
 For each of the three years, I gave three lectures a week in the autumn semester, and discussed curriculum modifications with the rest of lecturers in the spring semester. During autumn semester, for each lecture I taught theories to about 20 students, and guided them through the experiments (for validation). Each lecture (including experiment time) took me around 2 hours.
 
-## Proposal Writing (unfinished)
+<!-- ## Proposal Writing (unfinished)
 1. Self-Reactive Wave Energy Converter with Advanced Mechanical Power Take-Off, $1.8M, the Department of Energy, US, main drafter, in the waiting list.
 2. Additive Manufacturing of Nanocrystalline-Enhanced Permanent Magnets and Soft Magnetic Cores, $2M, the Department of Energy, main drafter, encouraged for full paper but unfunded.
 3. Power Blue Economy using Ocean Energy Harvesting, $30K, 4-VA Advancing the Common Wealth, US, participator, funded.
@@ -50,7 +50,7 @@ For each of the three years, I gave three lectures a week in the autumn semester
 7. Water-soaked Contra-rotating Generator for Self-balanced Direct-drive Ocean Energy Conversion, $600K, the Department of Energy, main drafter, under review.
 8. Acquisition of a Dynamometer to Support Marine and Hydrokinetic (MHK) Energy Research, $340K, Office of Naval Research, main drafter, under review.
 9. A Self-reactive Marine Energy Converter to Power Ocean Aquaculture, $xx, The Small Business Technology Transfer, participator, funded.
-10. Passive-Adaptive Contra-Rotating Ultralight Floating (PACRUF) Crossflow Turbine, $3.4M, the Department of Energy, main drafter, under review.
+10. Passive-Adaptive Contra-Rotating Ultralight Floating (PACRUF) Crossflow Turbine, $3.4M, the Department of Energy, main drafter, under review. -->
 
 ## Hobbies
 I read and watch tennis games during my spare time. When I finish a really good novel, I can't wait to introduce it to everyone. Check out **The Three-Body Problem** by Cixin Liu, perhaps the best sci-fi ever created by a Chinese writer!
