@@ -43,10 +43,34 @@ function toggleBibtex(articleid) {
 <ol>
 
 <li>
+<p> 
+<b>Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification</b><br>
+<b>Qiaofeng Li</b>, Huaibo Chen, Benjamin C. Koenig, Sili Deng*<br>
+<i>Physical chemistry chemical physics</i>, 2023<br>
+<a href="javascript:toggleBibtex('Li2023Bayesian')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1039/D2CP05083H" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Li2023Bayesian" class="bibtex noshow">
+<pre>
+@article{Li2023Bayesian,
+  title={Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification},
+  author={Li, Qiaofeng and Chen, Huaibo and Koenig, Benjamin C and Deng, Sili},
+  journal={Physical Chemistry Chemical Physics},
+  volume={25},
+  number={5},
+  pages={3707--3717},
+  year={2023},
+  publisher={Royal Society of Chemistry}
+}
+</pre></div>
+</li>
+
+<li>
 <p>
 <b>Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network</b><br>
 <b>Qiaofeng Li</b>, Tianyi Wang, Vwani Roychowdhury, M.K. Jawed*<br>
-<i>Extreme Mechanics Letters</i> <br>
+<i>Extreme Mechanics Letters</i>, 2023<br>
 <a href="javascript:toggleBibtex('Li2022Rapidly')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.eml.2022.101925" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -68,7 +92,7 @@ function toggleBibtex(articleid) {
 <p>
 <b>A self-floating oscillating surge wave energy converter</b><br>
 <b>Qiaofeng Li</b>, Jia Mi, Xiaofan Li, Shuo Chen, Boxi Jiang, Lei Zuo*<br>
-<i>Energy</i> <br>
+<i>Energy</i>, 2021<br>
 <a href="javascript:toggleBibtex('Li2021Self')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.energy.2021.120668" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -91,7 +115,7 @@ function toggleBibtex(articleid) {
 <p>
 <b>Group Relevance Vector Machine for sparse force localization and reconstruction</b><br>
 Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
-<i>Mechanical Systems and Signal Processing</i> <br>
+<i>Mechanical Systems and Signal Processing</i>, 2021<br>
 <a href="javascript:toggleBibtex('Feng2021Group')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.ymssp.2021.107900" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -115,7 +139,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <p>
 <b>A tunable wave energy converter using variable inertia flywheel</b><br>
 <b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
-<i>IEEE Transactions on Sustainable Energy</i> <br>
+<i>IEEE Transactions on Sustainable Energy</i>, 2021<br>
 <a href="javascript:toggleBibtex('Li2021Tunable')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1109/TSTE.2020.3041664" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -130,7 +154,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
    volume={12},  
    number={2},  
    pages={1265-1274},  
-   doi={10.1109/TSTE.2020.3041664}},
+   doi={10.1109/TSTE.2020.3041664},
    type={Journal Article}
 }
 </pre></div>
@@ -140,7 +164,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 <p>
 <b>Element-wise Bayesian regularization for fast and adaptive force reconstruction</b><br>
 Feng Wei, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
-<i>Journal of Sound and Vibration</i> <br>
+<i>Journal of Sound and Vibration</i>, 2020<br>
 <a href="javascript:toggleBibtex('Feng2020Element')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.jsv.2020.115713" class="textlink" target="_blank">[journal page]</a>
 </p>
@@ -338,6 +362,32 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Bo Wang, Chen Li<br>
 <ol>
 
 <li>
+<p> 
+<b>Sunlight-powered self-excited oscillators for sustainable autonomous soft robotics</b><br>
+Yusen Zhao, <b>Qiaofeng Li</b>, Zixiao Liu, Yousif Alsaid, Pengju Shi, Mohammad Khalid Jawed, Ximin He*<br>
+<i>Science Robotics</i>, 2023<br>
+<a href="javascript:toggleBibtex('Zhao2023Sunlight')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1126/scirobotics.adf4753" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Zhao2023Sunlight" class="bibtex noshow">
+<pre>
+@article{Zhao2023Sunlight,
+    author = {Yusen Zhao  and Qiaofeng Li  and Zixiao Liu  and Yousif Alsaid  and Pengju Shi  and Mohammad Khalid Jawed  and Ximin He },
+    title = {Sunlight-powered self-excited oscillators for sustainable autonomous soft robotics},
+    journal = {Science Robotics},
+    volume = {8},
+    number = {77},
+    pages = {eadf4753},
+    year = {2023},
+    DOI = {10.1126/scirobotics.adf4753},
+    year = {2020},
+    type = {Journal Article}
+}
+</pre></div>
+</li>
+
+<li>
 <p>
 <b>Design, modelling, and testing of a vibration energy harvester using a novel half-wave mechanical rectification</b><br>
 Jia Mi, <b>Qiaofeng Li</b>, Mingyi Liu, Xiaofan Li, Lei Zuo*<br>
@@ -415,22 +465,6 @@ Kai Yang*, Kaiping Yu, <b>Qiaofeng Li</b><br>
 
 ### Under Review & Preprints
 <ol>
-
-<li>
-<p> 
-<b>Sunlight-powered self-excited oscillators for sustainable autonomous soft robotics</b><br>
-Yusen Zhao, <b>Qiaofeng Li</b>, Zixiao Liu, Yousif Alsaid, Pengju Shi, Mohammad Khalid Jawed, Ximin He*<br>
-<i>Science Robotics</i><br>
-</p>
-</li>
-
-<li>
-<p> 
-<b>Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification</b><br>
-<b>Qiaofeng Li</b>, Huaibo Chen, Benjamin C. Koenig, Sili Deng*<br>
-<i>Physical chemistry chemical physics</i><br>
-</p>
-</li>
 
 </ol>
 
