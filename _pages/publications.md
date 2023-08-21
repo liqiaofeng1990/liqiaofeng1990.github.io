@@ -44,6 +44,33 @@ function toggleBibtex(articleid) {
 
 <li>
 <p> 
+<b>Metalearning generalizable dynamics from trajectories</b><br>
+<b>Qiaofeng Li</b>, Tianyi Wang, Vwani Roychowdhury*, M.K. Jawed*<br>
+<i>Physical Review Letters</i>, 2023<br>
+<a href="javascript:toggleBibtex('Li2023Metalearning')" class="textlink">[bib]</a>
+<a href="https://doi.org/10.1103/PhysRevLett.131.067301" class="textlink" target="_blank">[journal page]</a>
+</p>
+
+<div id="bib_Li2023Metalearning" class="bibtex noshow">
+<pre>
+@article{Li2023Metalearning,
+  title = {Metalearning Generalizable Dynamics from Trajectories},
+  author = {Li, Qiaofeng and Wang, Tianyi and Roychowdhury, Vwani and Jawed, M. K.},
+  journal = {Phys. Rev. Lett.},
+  volume = {131},
+  issue = {6},
+  pages = {067301},
+  numpages = {6},
+  year = {2023},
+  month = {Aug},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.131.067301}
+}
+</pre></div>
+</li>
+
+<li>
+<p> 
 <b>Bayesian chemical reaction neural network for autonomous kinetic uncertainty quantification</b><br>
 <b>Qiaofeng Li</b>, Huaibo Chen, Benjamin C. Koenig, Sili Deng*<br>
 <i>Physical chemistry chemical physics</i>, 2023<br>
@@ -69,7 +96,7 @@ function toggleBibtex(articleid) {
 <li>
 <p>
 <b>Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network</b><br>
-<b>Qiaofeng Li</b>, Tianyi Wang, Vwani Roychowdhury, M.K. Jawed*<br>
+<b>Qiaofeng Li</b>, Tianyi Wang, Vwani Roychowdhury*, M.K. Jawed*<br>
 <i>Extreme Mechanics Letters</i>, 2023<br>
 <a href="javascript:toggleBibtex('Li2022Rapidly')" class="textlink">[bib]</a>
 <a href="https://doi.org/10.1016/j.eml.2022.101925" class="textlink" target="_blank">[journal page]</a>
@@ -137,7 +164,7 @@ Wei Feng, <b>Qiaofeng Li*</b>, Qiuhai Lu, Chen Li, Bo Wang<br>
 
 <li>
 <p>
-<b>A tunable wave energy converter using variable inertia flywheel</b><br>
+<b>Tunable wave energy converter using variable inertia flywheel</b><br>
 <b>Qiaofeng Li</b>, Xiaofan Li, Jia Mi, Boxi Jiang, Shuo Chen, Qiuchi Xiong, Lei Zuo*<br>
 <i>IEEE Transactions on Sustainable Energy</i>, 2021<br>
 <a href="javascript:toggleBibtex('Li2021Tunable')" class="textlink">[bib]</a>
