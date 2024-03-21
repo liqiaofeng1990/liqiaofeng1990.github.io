@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-<br> Mechanical Engineering, MIT
+<br> Mechanical Engineering, Zhejiang University
 
-lqf1990@mit.edu
+lqf1990@zju.edu.cn

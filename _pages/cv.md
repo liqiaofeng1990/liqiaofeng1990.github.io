@@ -10,30 +10,12 @@ author_profile: true
 * B.S. in Engineering Mechanics (with honor), Harbin Institute of Technology, 2013.
 
 ## Work Experience
-* Postdoctoral Scholar, Massachusetts Institute of Technology, Cambridge, 2022-Present
-
+* Assistant Professor, Zhejiang University, Hangzhou, China, 2024-Present
+* Postdoctoral Scholar, Massachusetts Institute of Technology, Cambridge, 2022-2023
 * Postdoctoral Scholar, University of California, Los Angeles, 2021-2022
-
 * Postdoctoral Associate, Virginia Tech, 2019-2021
-  <br>Projects:
-  1. Efficient and reliable power take-off for ocean wave energy harvesting
-  2. Power blue economy using ocean energy harvesting
-  3. Floating oscillating surge wave energy converter using controllable efficient power take-off system
-  4. Powering ocean observation and underwater vehicles using wave energy harvesting
-  5. American-Made Challenges: Waves to Water Prize
-  6. American-Made Challenges: Ocean Observing Prize (Co-PI) 
-  7. Dual-functional tuned inerter damper for enhanced semi-submersible offshore wind turbine
-
 * Research Assistant, Tsinghua University, 2013-2018
-  <br>Projects:
-  1. Structural health monitoring methods based on acoustic emission technology
-  2. Performance evaluation of a safety equipment under abnormal conditions
-  3. Evaluation of the aseismic performance of a nuclear-grade fan
-  4. Developing fast and adaptive force identification methods for force and structural health monitoring
-
 * Research Assistant, Harbin Institute of Technology, 2011-2013
-  <br>Projects: 
-  1. Modal analysis of time-varying structures and its applications to identification of thermal modes
   
 ## Skills
 * Languages: Mandarin, English

@@ -79,14 +79,21 @@ p {
 
 <div class="container">
 
-	<div class="timeline-item" date-is='14-11-2022'>
+    <div class="timeline-item" date-is='22-02-2024'>
+      <h1>A new journey at ZJU</h1>
+      <p>
+          I have officially started my faculty career in the Department of Mechanical Engineering as a ZJU100 Young Professor at Zhejiang University, China. The official group website will be launched soon. Our group will be focusing on artificial intelligence, advanced materials, robotics and related topics.
+      </p>
+    </div>
+
+	  <div class="timeline-item" date-is='14-11-2022'>
       <h1>Our paper published on Extreme Mechanics Letters</h1>
       <p>
           Our paper <a href="https://doi.org/10.1016/j.eml.2022.101925" target="_blank">Rapidly encoding generalizable dynamics in a Euclidean symmetric neural network</a> has been published on Extreme Mechanics Letters.
       </p>
     </div>
 
-	<div class="timeline-item" date-is='01-05-2022'>
+	  <div class="timeline-item" date-is='01-05-2022'>
       <h1>A new journey at MIT</h1>
       <p>
           I have started a new postdoctoral scholar position at MIT.

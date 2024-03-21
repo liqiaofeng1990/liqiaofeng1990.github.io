@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:justify;">I currently work as a postdoctoral associate at MIT. I am working on physics-informed deep learning and uncertainty quantification. We develop interpretable deep-learning-based techniques for solving physical problems. In our research, we emphasize the role of interpretability and generalizability, and hope by incorporating these features data-driven modeling techniques eventually achieve robust characterization and uncertainty quantification of dynamical systems.</p>
+<p style="text-align:justify;"> I am currently serving as a ZJU100 Young Professor in the Department of Mechanical Engineering at Zhejiang University. Our group, Physical and Computational Intelligence (PCI) group, will be focusing on understanding the fundamental principles of intelligence and building intelligent systems from what we learn. I am actively looking for self-motivated postdocs, graduate students, exchange students, and undergraduate researchers to join our group. Kick-off projects include developing interpretable and generalizable deep learning architectures and methods for solving physical problems, and deep learning-based metamaterial design. By the end of the year 2024, we will extend our research scope to robotics-structure interaction. If you are interested in joining the group, please do not hesitate to contact me at lqf1990@zju.edu.cn .</p>
 
 <!-- News and Updates
 ------
