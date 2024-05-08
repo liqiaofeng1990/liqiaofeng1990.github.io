@@ -17,6 +17,15 @@ With ESNN, we were able to build an accurate ROM for a 76-cycle Slinky training 
 
 ## iMODE: interpretable meta neural ordinary differential equation
 
+![](/images/iMODE.png)
+
+iMODE takes one step further than ESNN, with the goal of learning generalizable dynamic models for **system family** insteand of a **system instance**. A system family refers to a set of multiple system instances that share the same form of dynamics but differ in physical parameters. The essential assumption of iMODE is that the system derivative field "deforms" continuously as the physical parameter changes, and iMODE is learning such morphology, a type of meta-knowledge.
+If we can learn such meta-knowledge, we should be able to quickly adapt the model to any unseen system and predict its dynamics given unseen initial/boundary conditions.
+
+Technically, iMODE constructs a NN that takes as input the system state and a concatenated latent variable, and generates as output the system derivative. The appropriate derivate field, after integrating under the NODE framework from some initial/boundary conditions, should match the ground truth trajectories; the NN weights are optimized so that after adapting the input latent variable to each individual system instance by a few (e.g. 5) steps, the adapted model becomes an accurate one for that system instance. In other words, we are finding a good NN weight so that the meta-model (with this weight) is capable of quickly adapting to system instances justified by the NODE fitting to ground truth.
+
+iMODE is model-agnostic, i.e. the entire pipeline is capable of embedding any physical constraints, such as conserative force field, Euclidean symmetry, and so on. In fact we were able to embed the entire ESNN in iMODE, which creates a new Euclidean equivariant force field at each step when adapting the input latent variable to a new system instance. This highlights the flexibility of iMODE and its huge potential for a wide range of dynamical systems. iMODE is published on *Physical Review Letters* with Editors' Suggestion and Featured in Physics.
+
 ## BCRNN: Bayesian Chemical Reaction Neural Network
 
 (To be finished)
