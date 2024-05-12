@@ -28,11 +28,10 @@ iMODE is model-agnostic, i.e. the entire pipeline is capable of embedding any ph
 
 ## BCRNN: Bayesian Chemical Reaction Neural Network
 
-(To be finished)
+![](/images/BCRNN.png)
 
-<!-- ![](/images/researchthemes_marineenergyconverter_overall.png)
+CRNN is a type of neural network (NN) that constructs a fully interpretable chemical kinetic model from a limited set of species concertration histories. It first express the widely applicable physical laws in chemical kinetics, the law of mass action and the Arrhenius law, in the form of neural networks with species concentration as inputs and species reaction rates as output; then integrates the NN under the neural ODE framework to compute predicted concentration histories; the neural network weights are updated by backpropogating the difference between predicted and measured concentration histories. This pipeline enables (1) template-free kinetic model discovery since the pathways are automatically determined in a data-driven manner instead of designated; (2) full interpretability of the NN weights as they exactly represent the stoichiometric coefficients and rate constants.
 
-Marine and hydrokinetic (MHK) energy conversion technology harvests the abundant wave and current energy in the ocean. The US department of energy (DOE) has identified 3 thrust research areas to advance the technology and commericial maturation of the MHK industry:
-1. hydrodynamics
-2. power take-off (PTO)
-3. control -->
+BCRNN takes one step further by assuming independent Gaussian distributions on the NN weights instead of treating them as deterministic values. In BCRNN, the number of undetermined parameters is doubled compared with CRNN: the mean and variance of the Gaussian distribution should be determined for each weight. We adopted variance inference to determine these values which eventually results in a competetion between two counteracting terms: any sampled kinetic model should predict concentration histories reasonablly close to the measured ones by the standards of the measurement noise distribution; the varainces should be reasonally small justified by the variances of the prior distribution.
+
+After training the BCRNN, the distribution of each weight is fully determined. One can easily sample the NN weights (since they are Gaussian distributions) to construct an ensemble of kinetic models. Parallel computing on GPUs with this ensemble would enable fast kinetic prediction and uncertainty quantification under unseen conditions.
