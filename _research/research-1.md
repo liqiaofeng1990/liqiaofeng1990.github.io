@@ -17,7 +17,8 @@ With ESNN, we were able to build an accurate ROM for a 76-cycle Slinky training 
 
 ## iMODE: interpretable meta neural ordinary differential equation
 
-![](/images/iMODE.png)
+<!-- ![](/images/iMODE.png) -->
+<img src="/images/iMODE.png" width = "80%" />
 
 iMODE takes one step further than ESNN, with the goal of learning generalizable dynamic models for **system family** insteand of a **system instance**. A system family refers to a set of multiple system instances that share the same form of dynamics but differ in physical parameters. The essential assumption of iMODE is that the system derivative field "deforms" continuously as the physical parameter changes, and iMODE is learning such morphology, a type of meta-knowledge.
 If we can learn such meta-knowledge, we should be able to quickly adapt the model to any unseen system and predict its dynamics given unseen initial/boundary conditions.
